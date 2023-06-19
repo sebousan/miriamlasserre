@@ -1,0 +1,16 @@
+fr:
+  links:
+    - blank: false
+      title: Contact
+      url: /contact/
+    - blank: false
+      url: /en/
+      title: EN
+en:
+  links:
+    - blank: false
+      title: Contact
+      url: /en/contact/
+    - blank: false
+      url: /fr/
+      title: FR

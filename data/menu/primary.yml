@@ -1,0 +1,22 @@
+fr:
+  links:
+    - blank: false
+      title: Miriam
+      url: /a-propos/
+    - blank: false
+      url: /services/
+      title: Services
+    - blank: false
+      url: /presse/
+      title: Presse
+en:
+  links:
+    - blank: false
+      title: Miriam
+      url: /en/about-me/
+    - blank: false
+      url: /en/services/
+      title: Services
+    - blank: false
+      url: /en/press/
+      title: Press

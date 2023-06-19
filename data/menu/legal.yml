@@ -1,0 +1,10 @@
+fr:
+  links:
+    - blank: false
+      url: /mentions-legales/
+      title: Mentions légales
+en:
+  links:
+    - blank: false
+      url: /en/legals-mentions/
+      title: Legals mentions

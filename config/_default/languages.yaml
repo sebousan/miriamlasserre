@@ -2,6 +2,9 @@ fr:
   languageName: Français
   title: Miriam Lasserre
   weight: 1
+  permalinks:
+    publications: /presse/:slug/
+
 
 en:
   languageName: English
