@@ -1,12 +1,15 @@
 fr:
+  languageCode: FR
   languageName: Français
   title: Miriam Lasserre
   weight: 1
   permalinks:
     publications: /presse/:slug/
 
-
 en:
+  languageCode: EN
   languageName: English
   title: Miriam Lasserre
   weight: 2
+  permalinks:
+    publications: /press/:slug/

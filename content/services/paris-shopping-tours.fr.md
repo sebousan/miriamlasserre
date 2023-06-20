@@ -11,4 +11,6 @@ hero:
   align: start
   image:
     darken: true
+image:
+  src: /images/uploads/paris.jpg
 ---

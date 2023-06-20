@@ -12,4 +12,5 @@ hero:
   align: start
   image:
     darken: true
+title: Personal shopping
 ---

@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2023-06-16T14:45:54.474Z
-title: Colorimétrie
+title: Colorimetry
 image:
   src: /images/uploads/color.jpg
 hero:
@@ -14,3 +14,10 @@ hero:
   image:
     darken: true
 ---
+Do you wear certain colors because you like them or because they’re trendy ? Have you ever wondered if they were actually highlighting you best features? Carefully selecting the colors you wear is a milestone which can radically improve your image, make you look younger, more radiant and much more confident !
+
+The color analysis reveals which color pallets most brighten your natural assets (*complexion, skin-tone, and body-type).*
+
+Once determined your color palette Miriam will teach you how to do your makeup.
+
+Following the color analysis and Miriam’s personalized tips, you will know exactly which shades to shift towards when you shop for both your make-up and clothes.

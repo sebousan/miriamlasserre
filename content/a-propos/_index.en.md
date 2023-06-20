@@ -13,7 +13,7 @@ hero:
   align: start
   image:
     darken: true
-    src: null
+    src: /images/uploads/miriam-lasserre.jpg
 blocks:
   - type: quote
     background: false
