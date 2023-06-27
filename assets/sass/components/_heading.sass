@@ -1,0 +1,14 @@
+.heading
+    @include margin-bottom($global-spacing)
+    align-items: center
+    display: flex
+    flex-direction: column
+    &::before
+        @include margin-bottom($global-spacing)
+        background-color: black
+        content: ''
+        display: block
+        height: 1px
+        width: 70px
+    h1
+        margin-bottom: 0

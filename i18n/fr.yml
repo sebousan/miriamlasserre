@@ -1,0 +1,5 @@
+services:
+  book: Réserver
+  title:
+    one: Service
+    other: Services

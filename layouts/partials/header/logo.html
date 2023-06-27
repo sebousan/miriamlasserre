@@ -1,0 +1,6 @@
+<div class="logo-baseline">
+  {{ partial "commons/logo.html" (dict "logo" site.Params.logo.header) }}
+  {{- with index .Site.Data.seo .Site.Language.Lang -}}
+    <p class="baseline">{{- partial "func/PrepareHTML" .baseline -}}</p>
+  {{- end -}}
+</div>

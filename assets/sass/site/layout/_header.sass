@@ -1,0 +1,39 @@
+header[role="banner"]
+    .logo
+        display: block
+        img
+            height: auto
+            width: 100%
+    .baseline
+        font-family: $font-family-sans-serif
+        font-size: $small-font-size
+        letter-spacing: .087em
+        margin-bottom: 0
+        text-transform: uppercase
+    .btn-menu
+        margin-left: auto
+
+    @include media-breakpoint-down(md)
+        > nav
+            --bs-navbar-padding-y: 1.25rem
+        .logo-baseline
+            width: 70%
+        .baseline
+            display: none
+    
+    @include media-breakpoint-up(md)
+        .logo-baseline
+            left: 50%
+            position: absolute
+            text-align: center
+            transform: translateX(-50%)
+        .logo
+            margin-bottom: px2rem(10)
+            img
+                height: px2rem(25)
+                width: auto
+    @include media-breakpoint-up(lg)
+        .nav-primary
+            margin-left: 0
+            margin-right: auto
+            

@@ -1,0 +1,5 @@
+services:
+  book: Book
+  title:
+    one: Service
+    other: Services
