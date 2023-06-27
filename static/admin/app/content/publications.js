@@ -1,23 +1,25 @@
 import { isNotIndex } from '../fields/is-not-index.js'
 import { draft } from '../fields/draft.js'
 import { date } from '../fields/date.js'
-import { description } from '../fields/description.js'
-import { featured_image } from '../fields/featured-image.js'
 import { title } from '../fields/title.js'
-import { body } from '../fields/body.js'
+import { description } from '../fields/description.js'
+import { press } from '../fields/press.js'
+import { featured_image } from '../fields/featured-image.js'
 
-const services = {
-    name: 'services',
-    label: 'Services',
-    label_singular: 'service',
-    folder: 'content/services',
+const publications = {
+    name: 'publications',
+    label: 'Parutions',
+    label_singular: 'Parution',
+    folder: 'content/publications',
     create: true,
 
     editor: { preview: false },
 
-    i18n: true,
+    // #i18n: true,
 
-    slug: '{{slug}}',
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}',
+    path: '{{year}}/{{month}}/{{slug}}',
+    summary: '{{title}} — {{year}}',
 
     filter: { field: 'isIndex', value: false },
 
@@ -27,17 +29,9 @@ const services = {
         date,
         title,
         description,
-        featured_image,
-        {
-            name: 'offer',
-            label: 'Offre',
-            widget: 'text',
-            required: false,
-            i18n: true
-        },
-        body
+        press,
+        featured_image
     ]
-
 }
 
-export default services
+export default publications
