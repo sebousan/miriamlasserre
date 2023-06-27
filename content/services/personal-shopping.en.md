@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T13:50:45.280Z
+date: 2023-06-27T10:52:12.347Z
 image:
   src: /images/uploads/personal.jpg
 hero:

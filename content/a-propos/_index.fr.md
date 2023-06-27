@@ -6,10 +6,6 @@ url: a-propos
 image:
   src: /images/uploads/miriam-lasserre.jpg
 hero:
-  cta:
-    blank: false
-  cta_second:
-    blank: false
   align: start
   image:
     darken: true
@@ -21,10 +17,10 @@ blocks:
     background: false
     quote: "« Vos vêtements parlent de vous : ils reflètent votre personnalité, vos
       choix, votre mode de vie. Une garde-robe soigneusement sélectionnée peut
-      faire \x03la différence et faciliter votre quotidien ! Mon quotidien à moi
-      est d’écouter \x03et d’accompagner mes clients, pour les aider à révéler
+      faire la différence et faciliter votre quotidien ! Mon quotidien à moi
+      est d’écouter et d’accompagner mes clients, pour les aider à révéler
       leur style et construire un dressing qui leur ressemble et s’adaptera à
-      toutes les occasions. »."
+      toutes les occasions. »"
   - type: paragraph
     grid: small
     offset: center
@@ -47,7 +43,7 @@ blocks:
       leur style, les accompagner dans le cadre d’une prestation
       ultra-personnalisée, avec beaucoup d’empathie et de complicité. Investir
       dans de bons conseils de style s’avèrera moins couteux à long terme que
-      d’accumuler des pièces non portées! »
+      d’accumuler des pièces non portées ! »
   - type: paragraph
     grid: small
     offset: center
@@ -56,25 +52,25 @@ blocks:
       blank: false
     background: false
     text: >-
-      #### La pièce dont je ne me sépare jamais
+      **La pièce dont je ne me sépare jamais**
 
 
       Une paire de ballerines: sobres, élégantes, indémodables, elles me permettent de courir partout dans Paris tout en restant chic! Le petit plus: si j’ai prévu de porter des talons, je peux les glisser facilement dans mon sac et les dégainer en cas de besoin!
 
 
-      #### 3 basiques à avoir dans sa garde-robe
+      **3 basiques à avoir dans sa garde-robe**
 
 
-      \-Un Tee-shirt blanc et loose. Un basique qui va à tout le monde, à porter version casual avec un jean ou rock sous un perfecto.
+      \- Un Tee-shirt blanc et loose. Un basique qui va à tout le monde, à porter version casual avec un jean ou rock sous un perfecto.
 
 
-      \-Un pull en cachemire col V : le must-have de la Parisienne! A porter légèrement ample sur un jean, un pantalon noir, une jupe…cette pièce se marie avec tout !
+      \- Un pull en cachemire col V : le must-have de la Parisienne! A porter légèrement ample sur un jean, un pantalon noir, une jupe…cette pièce se marie avec tout !
 
 
-      \-Un blazer masculin : indémodable depuis que Monsieur Saint-Laurent l’a décliné pour les femmes, c’est la signature d’un look chic et intemporel, mixant habilement les codes masculins/féminins.
+      \- Un blazer masculin : indémodable depuis que Monsieur Saint-Laurent l’a décliné pour les femmes, c’est la signature d’un look chic et intemporel, mixant habilement les codes masculins/féminins.
 
 
-      #### Une erreur à ne pas commettre
+      **Une erreur à ne pas commettre**
 
 
       Acheter une pièce en pensant: « Je la porterai un jour pour une occasion », « quand j’aurai perdu du poids», « si je suis invitée à un événement »… Pour être sûre qu’il s’agit d’un bon investissement, vous devez vous projeter tout de suite avec cette nouvelle pièce et être capable de la combiner avec 3 autres pièces de votre garde-robe.

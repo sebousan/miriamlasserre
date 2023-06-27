@@ -1,6 +1,9 @@
 fr:
   links:
     - blank: false
+      url: /presse/
+      title: Presse
+    - blank: false
       title: Contact
       url: /contact/
 en:
@@ -8,3 +11,6 @@ en:
     - blank: false
       title: Contact
       url: /en/contact/
+    - blank: false
+      url: /en/press/
+      title: Press

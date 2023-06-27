@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T14:44:03.863Z
+date: 2023-06-27T10:50:00.000Z
 title: Consultation online
 hero:
   cta:
@@ -12,7 +12,7 @@ hero:
   image:
     darken: true
 image:
-  src: /images/uploads/service.jpg
+  src: /images/uploads/online.jpg
 ---
 Vous n’habitez pas à Paris ou manquez de temps pour une séance de Personal Shopping ? Vous cherchez le cadeau idéal pour une occasion spéciale, mais manquez d’inspiration ? Optez pour la consultation on-line et profitez de l’expertise de Miriam depuis votre domicile:
 

@@ -6,9 +6,6 @@ fr:
     - blank: false
       url: /services/
       title: Services
-    - blank: false
-      url: /presse/
-      title: Presse
 en:
   links:
     - blank: false
@@ -17,6 +14,3 @@ en:
     - blank: false
       url: /en/services/
       title: Services
-    - blank: false
-      url: /en/press/
-      title: Press

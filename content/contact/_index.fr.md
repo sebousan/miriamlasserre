@@ -1,8 +1,9 @@
 ---
-isIndex: false
+isPage: true
 draft: false
-date: 2022-06-16T14:45:00.000Z
-title: Paris shopping tours
+title: Contact
+image:
+  src: /images/uploads/online.jpg
 hero:
   cta:
     blank: false
@@ -11,6 +12,4 @@ hero:
   align: start
   image:
     darken: true
-image:
-  src: /images/uploads/paris.jpg
 ---

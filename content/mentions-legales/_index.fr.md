@@ -2,14 +2,6 @@
 isPage: true
 draft: true
 title: Mentions légales
-hero:
-  cta:
-    blank: false
-  cta_second:
-    blank: false
-  align: start
-  image:
-    darken: true
 ---
 ## 1. Présentation du site web
 

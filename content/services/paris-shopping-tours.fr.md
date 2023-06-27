@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T14:45:30.312Z
+date: 2022-06-16T14:45:00.000Z
 title: Paris shopping tours
 hero:
   cta:

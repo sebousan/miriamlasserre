@@ -1,16 +1,8 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T14:44:03.863Z
+date: 2023-06-27T10:50:00.000Z
 title: Online consultation
-hero:
-  cta:
-    blank: false
-  cta_second:
-    blank: false
-  align: start
-  image:
-    darken: true
 image:
-  src: /images/uploads/service.jpg
+  src: /images/uploads/online.jpg
 ---

@@ -1,10 +1,8 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T13:50:45.280Z
+date: 2023-06-27T10:52:12.347Z
 title: Personal shopping
-image:
-  src: /images/uploads/personal.jpg
 hero:
   cta:
     blank: false
@@ -13,6 +11,14 @@ hero:
   align: start
   image:
     darken: true
+description: Une séance de shopping sur-mesure au cours de laquelle Miriam,
+  votre styliste personnelle, vous guide et partage avec vous ses conseils de
+  professionnelle.
+image:
+  src: /images/uploads/personal.jpg
+offer: |-
+  Demi journée : 375 €
+  Journée Complète : 650 €
 ---
 *« Si vous vous sentez dépassé(e)s devant votre placard, pensez régulièrement que vous n’avez rien à vous mettre, vous changez plusieurs fois devant le miroir sans être jamais satisfait(e), vous avez besoin des conseils d’une experte pour apprendre comment associer et mixer les pièces. Le Personal Shopping est fait pour vous ! »*
 

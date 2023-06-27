@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T14:43:09.264Z
+date: 2023-06-27T10:51:00.000Z
 title: Dressing detox
 image:
   src: /images/uploads/detox-dressing.jpg

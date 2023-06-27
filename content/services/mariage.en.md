@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-20T11:50:50.877Z
+date: 2023-06-27T10:48:48.836Z
 title: Wedding
 image:
   src: /images/uploads/wedding.jpg

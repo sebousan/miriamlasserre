@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2023-06-16T14:45:54.474Z
+date: 2023-06-27T10:47:27.498Z
 title: Colorimetry
 image:
   src: /images/uploads/color.jpg
