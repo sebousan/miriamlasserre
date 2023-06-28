@@ -6,6 +6,9 @@ fr:
     - blank: false
       url: /services/
       title: Services
+    - blank: false
+      title: Ebooks
+      url: /ebooks
 en:
   links:
     - blank: false
@@ -14,3 +17,6 @@ en:
     - blank: false
       url: /en/services/
       title: Services
+    - blank: false
+      title: Ebooks
+      url: /en/ebooks

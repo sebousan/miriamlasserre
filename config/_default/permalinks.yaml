@@ -1,2 +1,3 @@
 _merge: deep
 services: /services/:slug/
+ebooks: /ebooks/:slug/

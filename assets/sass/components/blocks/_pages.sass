@@ -1,0 +1,39 @@
+.block-pages
+    .items
+        @include make-row()
+        --bs-gutter-y: #{$grid-gutter-width}
+        > *
+            @include make-col-ready()
+            @include media-breakpoint-up(md)
+                @include make-col(6)
+    
+    .push
+        --bs-aspect-ratio: calc(3 / 5 * 100%)
+        --push-color: black
+        
+    .content
+        align-items: center
+        background-color: white
+        display: flex
+        flex-direction: column
+        height: 50%
+        justify-content: center
+        left: 10%
+        position: absolute
+        text-align: center
+        top: 25%
+        width: 80%
+        z-index: 1
+    
+    h2
+        font-size: $h2-font-size
+    
+    @media (prefers-reduced-motion: no-preference)
+        .content
+            opacity: 0
+            transform: translateY(1.25rem)
+            transition: opacity .1s, transform .5s cubic-bezier(0,.4,0,1)
+        a:hover
+            .content
+                opacity: 1
+                transform: translateY(0)

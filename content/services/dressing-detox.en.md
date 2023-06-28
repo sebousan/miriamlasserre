@@ -13,4 +13,16 @@ hero:
   align: start
   image:
     darken: true
+offer: "Half a day: 350 €"
 ---
+Did you know that most people only wear 20% of their wardrobe?
+
+If that sounds like you, the Dressing Detox is what you need, especially before your next shopping spree. A personal in-home consultation, during which Miriam will:
+
+* **Analyze your wardrobe**: selecting the good basics you should always have, as well as the pieces which best flatter your silhouette, your complexion, your style…
+* **Sorting** out clothes that don’t fit you, are too damaged or out-of-style.
+* **Optimize your wardrobe** and help you work with what you already have by composing several timeless styles that you can wear all year long
+* **Share expert tips** to accessorize your outfits.
+* **Identify** what’s lacking in your wardrobe.
+
+After this consultation, your closet will be decluttered, organized, and you will receive a personalized lookbook summing up the outfits that Miriam styled for you and her made-to-measure fashion advice. Miriam will also provide you with options for places to shop to complete your wardrobe.

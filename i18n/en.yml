@@ -1,5 +1,10 @@
+ebooks:
+  title:
+    one: Ebook
+    other: Ebooks
 services:
   book: Book
   title:
     one: Service
     other: Services
+download: Download PDF

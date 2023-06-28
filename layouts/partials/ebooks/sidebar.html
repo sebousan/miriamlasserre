@@ -1,0 +1,15 @@
+{{ $text := i18n "download" }}
+{{ $title := i18n "link.blank_aria" (dict "Title" $text) }}
+{{ $context := .}}
+
+<div class="sidebar"{{ partial "func/SetAnim" (dict "element" "sidebar") }}>
+  {{ with .Params.file }}
+    <div class="press">
+      <div class="content">
+        <h1 class="name">{{ i18n "ebooks.title" 1 }}</h1>
+        {{ partial "commons/date" $context }}
+        <a href="{{ . }}" class="btn" target="_blank" rel="noopener noreferrer" title="{{ $title }}">{{ $text }}</a>
+      </div>
+    </div>
+  {{ end }}
+</div>

@@ -1,0 +1,12 @@
+.page-ebooks
+    .grid
+        @include media-breakpoint-up(md)
+            grid-column-gap: $global-spacing
+            >
+                .featured-image
+                    grid-column: 1/7
+                    grid-row: 2
+                .content
+                    grid-column: 1/7
+                .sidebar
+                    grid-column: 7/13

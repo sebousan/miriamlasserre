@@ -1,0 +1,8 @@
+{{ define "hero"}}
+  {{- partial "ebooks/hero-single" . -}}
+{{ end }}
+
+{{ define "main" }}
+  {{ partial "ebooks/schema-single" . }}
+  {{ partial "ebooks/container-single" . }}
+{{ end }}

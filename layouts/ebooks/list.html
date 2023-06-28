@@ -1,0 +1,9 @@
+{{ define "hero"}}
+  {{- partial "ebooks/hero" . -}}
+{{ end }}
+
+{{ define "main" }}
+  {{ partial "ebooks/schema" . }}
+  {{ partial "ebooks/blocks" . }}
+  {{ partial "ebooks/container" . }}
+{{ end }}

@@ -11,8 +11,11 @@ hero:
   align: start
   image:
     darken: true
+description: Comme pour tous ses services, Miriam se tient à votre disposition
+  après chaque prestation pour répondre à vos questions.
 image:
   src: /images/uploads/online.jpg
+offer: 135 € / Heure
 ---
 Vous n’habitez pas à Paris ou manquez de temps pour une séance de Personal Shopping ? Vous cherchez le cadeau idéal pour une occasion spéciale, mais manquez d’inspiration ? Optez pour la consultation on-line et profitez de l’expertise de Miriam depuis votre domicile:
 

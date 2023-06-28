@@ -1,0 +1,9 @@
+.ebooks
+    --bs-gutter-y: 1.875rem
+    @extend .row 
+    @extend .row-cols-1
+    @extend .row-cols-md-3
+    > *
+        @extend .col
+    & + nav
+        @include margin-top($global-spacing)

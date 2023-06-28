@@ -1,5 +1,10 @@
+ebooks:
+  title:
+    one: Ebook
+    other: Ebooks
 services:
   book: Réserver
   title:
     one: Service
     other: Services
+download: Télécharger le PDF

@@ -3,8 +3,10 @@ isIndex: false
 draft: false
 date: 2023-06-27T10:48:48.836Z
 title: Mariage
+description: Détendez-vous et laissez Miriam vous sublimer pour le grand jour !
 image:
   src: /images/uploads/wedding.jpg
+offer: "2 journées : 700 EUROS"
 ---
 Votre mariage approche et vous hésitez encore dans le choix de votre robe, maquillage, coiffure ou accessoires ? Détendez-vous et laissez Miriam vous sublimer pour le grand jour ! Ce service inclut :
 

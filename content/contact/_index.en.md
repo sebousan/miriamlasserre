@@ -1,6 +1,7 @@
 ---
 isPage: true
 draft: false
+title: Contact
 image:
   src: /images/uploads/online.jpg
 hero:

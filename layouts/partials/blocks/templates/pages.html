@@ -1,0 +1,57 @@
+<section class="block-pages"{{ partial "func/SetAnim" (dict "element" "block") }}>
+  <div class="container">
+    
+    {{ partial "blocks/heading.html" . }}
+
+    {{ with .items }}
+    <div class="items">
+      {{ range . }}
+        <div>
+
+          <div class="push">
+
+            {{ with .url }}
+              <a href="{{ . }}">
+            {{ end }}
+
+            {{ if .title  }}
+              <div class="content">
+                {{- with .title }}
+                  <h2>{{ partial "func/PrepareHTML" . }}</h2>
+                {{ end -}}
+              </div>
+            {{ end }}
+
+            {{ with .image }}
+              {{ $columnTotal := site.Params.column | default false }}
+              {{ $desktop := site.Params.container.desktop | default false }}
+              {{ $mobile := site.Params.container.mobile | default false }}
+              {{ if $desktop }}
+                {{ $width := partial "func/GetColumnWidth" (dict "column" (div $columnTotal 2)) }}
+                {{ $desktop = printf "%sx" (string $width) }}
+              {{ end }}
+              {{ if $mobile }}
+                {{ $mobile = printf "%sx%s" (string $mobile) (string $mobile) }}
+              {{ end }}
+            
+              {{ partial "commons/image" (dict
+                "src" .src 
+                "alt" .alt 
+                "desktop" $desktop
+                "mobile" $mobile
+                ) }}
+            {{ end }}
+
+            {{ with .url }}
+              </a>
+            {{ end }}
+            
+          </div>
+
+        </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </div>
+</section>
