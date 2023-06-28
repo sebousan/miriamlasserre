@@ -5,7 +5,7 @@
 
     {{ with .items }}
     <div class="items">
-      {{ range . }}
+      {{ range $index, $item := . }}
         <div>
 
           <div class="push">
@@ -23,15 +23,22 @@
             {{ end }}
 
             {{ with .image }}
-              {{ $columnTotal := site.Params.column | default false }}
-              {{ $desktop := site.Params.container.desktop | default false }}
-              {{ $mobile := site.Params.container.mobile | default false }}
+              {{ $column := 1.5 }}
+              {{ if mod $index 3 }}
+                {{ $column = 3 }}
+              {{ end }}
+              {{- $columnTotal := site.Params.column | default false -}}
+              {{- $desktop := site.Params.container.desktop | default false -}}
+              {{- $mobile := site.Params.container.mobile | default false -}}
               {{ if $desktop }}
-                {{ $width := partial "func/GetColumnWidth" (dict "column" (div $columnTotal 2)) }}
-                {{ $desktop = printf "%sx" (string $width) }}
+                {{- $width := partial "func/GetColumnWidth" (dict "column" (div $columnTotal $column)) -}}
+                {{- $desktop = printf "%sx410" (string $width) -}}
+                {{ if mod $index 3 }}
+                  {{- $desktop = printf "%sx%s" (string $width) (string $width) -}}
+                {{ end }}
               {{ end }}
               {{ if $mobile }}
-                {{ $mobile = printf "%sx%s" (string $mobile) (string $mobile) }}
+                {{- $mobile = printf "%sx%s" (string $mobile) (string $mobile) -}}
               {{ end }}
             
               {{ partial "commons/image" (dict

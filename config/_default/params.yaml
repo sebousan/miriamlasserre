@@ -1,4 +1,5 @@
 _merge: deep
+gutter: 30
 hero:
   desktop: "850x"
   mobile: "300x"

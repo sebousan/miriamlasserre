@@ -1,15 +1,24 @@
 .block-pages
+    padding-bottom: 0
+    padding-top: 0
     .items
         @include make-row()
         --bs-gutter-y: #{$grid-gutter-width}
         > *
             @include make-col-ready()
             @include media-breakpoint-up(md)
-                @include make-col(6)
+                @include make-col(4)
+                &:nth-child(3n-2)
+                    @include make-col(8)
+                    .push
+                        --bs-aspect-ratio: 48.236%
     
     .push
-        --bs-aspect-ratio: calc(3 / 5 * 100%)
+        --bs-aspect-ratio: 100%
         --push-color: black
+        @include media-breakpoint-down(md)
+            &::before
+                padding-top: 75%
         
     .content
         align-items: center
@@ -29,11 +38,12 @@
         font-size: $h2-font-size
     
     @media (prefers-reduced-motion: no-preference)
-        .content
-            opacity: 0
-            transform: translateY(1.25rem)
-            transition: opacity .1s, transform .5s cubic-bezier(0,.4,0,1)
-        a:hover
+        @include media-breakpoint-up(md)
             .content
-                opacity: 1
-                transform: translateY(0)
+                opacity: 0
+                transform: translateY(1.25rem)
+                transition: opacity .1s, transform .5s cubic-bezier(0,.4,0,1)
+            a:hover
+                .content
+                    opacity: 1
+                    transform: translateY(0)

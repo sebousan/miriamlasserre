@@ -28,14 +28,15 @@
         font-size: $h2-font-size
 
     @media (prefers-reduced-motion: no-preference)
-        .content
-            opacity: 0
-            transform: translateY(1.25rem)
-            transition: opacity .1s, transform .5s cubic-bezier(0,.4,0,1)
-        a:hover
+        @include media-breakpoint-up(md)
             .content
-                opacity: 1
-                transform: translateY(0)
-            .name
-                text-decoration: none
+                opacity: 0
+                transform: translateY(1.25rem)
+                transition: opacity .1s, transform .5s cubic-bezier(0,.4,0,1)
+            a:hover
+                .content
+                    opacity: 1
+                    transform: translateY(0)
+                .name
+                    text-decoration: none
                 
