@@ -1,24 +1,25 @@
 import { isNotIndex } from '../fields/is-not-index.js'
 import { draft } from '../fields/draft.js'
 import { date } from '../fields/date.js'
-import { title } from '../fields/title.js'
 import { description } from '../fields/description.js'
-import { press } from '../fields/press.js'
 import { featured_image } from '../fields/featured-image.js'
+import { title } from '../fields/title.js'
+import { pdf } from '../fields/pdf.js'
+import { body } from '../fields/body.js'
 
-const publications = {
-    name: 'publications',
-    label: 'Parutions',
-    label_singular: 'Parution',
-    folder: 'content/publications',
+const ebooks = {
+    name: 'ebooks',
+    label: 'E-books',
+    label_singular: 'ebook',
+    folder: 'content/ebooks',
     create: true,
 
     editor: { preview: false },
 
     i18n: true,
 
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}',
-    path: '{{year}}/{{month}}/{{slug}}',
+    slug: '{{year}}-{{month}}-{{slug}}',
+    path: '{{year}}/{{slug}}',
     summary: '{{title}} — {{year}}',
 
     filter: { field: 'isIndex', value: false },
@@ -29,9 +30,11 @@ const publications = {
         date,
         title,
         description,
-        press,
-        featured_image
+        pdf,
+        featured_image,
+        body
     ]
+
 }
 
-export default publications
+export default ebooks

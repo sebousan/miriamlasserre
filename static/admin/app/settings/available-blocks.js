@@ -2,7 +2,7 @@ export const availableBlocks = [
     'alert',
     'cta',
     // 'informations',
-    'pushes',
+    'pages',
     // 'datas',
     // 'map',
     'quote',

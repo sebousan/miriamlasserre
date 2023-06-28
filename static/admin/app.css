@@ -1,0 +1,249 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+:root {
+    --primary-color: #A90940;
+    --text-color: black;
+    --grey: rgb(240, 240, 240);
+    --midgrey: rgb(245, 245, 245);
+    --lightgrey: rgb(250, 250, 250);
+    --border-radius: 0;
+    --margin: 20px;
+}
+
+header nav::before {
+    background: url("./logo-picto.svg") no-repeat;
+    background-size: contain;
+    content: '';
+    float: left;
+    height: 40px;
+    margin-top: 8px;
+    width: 40px;
+}
+
+[class*="-CustomIconWrapper"] {
+    text-align: center;
+}
+[class*="-CustomIconWrapper"] img {
+    height: 50px;
+    width: 50px;
+}
+
+input[type="text"],
+input[type="number"],
+textarea {
+    border: 1px solid var(--grey) !important;
+    border-radius: var(--border-radius) !important;
+    padding: 15px !important;
+}
+
+input[id*="color"] {
+    padding-left: 75px !important;
+}
+
+[aria-current="page"],
+[aria-current="page"] svg {
+        color: var(--primary-color) !important;
+}
+
+[class*="-ControlContainer"] {
+    padding-bottom: 10px !important;
+    margin-top: 10px !important;
+}
+
+[class*="ControlContainer"] > label {
+    background: transparent;
+    color: var(--text-color);
+    padding-left: 0;
+}
+[class*="ControlContainer"] > div {
+    /* border: 1px dashed var(--grey); */
+    background: transparent;
+    border: 0;
+    padding-bottom: 0 !important;
+}
+
+label + [class*="-DateTimeControl"] {
+    border: 0 !important;
+}
+
+
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"],
+[class*="ListItem-listControlItem-ListControl"] {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"] > label,
+[class*="ListItem-listControlItem-ListControl"] > label {
+    background: transparent;
+    color: var(--text-color);
+    order: 1;
+    padding-left: 0;
+}
+
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"] > div:nth-of-type(2),
+[class*="ListItem-listControlItem-ListControl"] > div:nth-of-type(2) {
+    background: transparent;
+    color: var(--text-color);
+    order: 2;
+    padding: 0;
+}
+
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"] > div:first-of-type,
+[class*="ListItem-listControlItem-ListControl"] > div:first-of-type {
+    flex: 0 0 100%;
+    order: 3;
+}
+
+
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"] > div:last-child,
+[class*="ListItem-listControlItem-ListControl"] > div:last-child {
+    /* border: 1px solid var(--grey); */
+    border: 0;
+    border-radius: var(--border-radius);
+    flex: 0 0 100%;
+    order: 4;
+    padding: 0 var(--margin) var(--margin);
+}
+
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"] > label::before,
+[class*="ListItem-listControlItem-listControlItemCollapsed-ListControl"] > label::after,
+[class*="ListItem-listControlItem-ListControl"] > label::before,
+[class*="ListItem-listControlItem-ListControl"] > label::after,
+
+[class*="-FieldLabel-fieldLabel"]::before,
+[class*="-FieldLabel-fieldLabel"]::after {
+    content: none;
+}
+
+[class*="ControlContainer"],
+[class*="ControlContainer"]:first-of-type {
+    margin-top: var(--margin) !important;
+}
+[class*="ControlContainer"] {
+    clear: left;
+}
+
+[class*="-control"] {
+    border: 1px dashed var(--grey) !important;
+}
+
+[class*="-control"] input[type="text"] {
+    border: 0 !important;
+    padding: 0 !important;
+}
+
+div > div[id*="blocks-field-"],
+div > div[id*="hero-field-"] {
+    background-color: var(--lightgrey) !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+}
+
+div > div[id*="blocks-field-"] > div:last-child:not(:empty) {
+    padding-bottom: var(--margin) !important;
+}
+
+
+/* TOPBAR */
+[class*="-TopBarContainer"]{
+    background: var(--grey) !important;
+    padding: 5px !important;
+}
+[class*="TopBar-StyledListItemTopBar-StyledListItemTopBar"] button,
+[class*="TopBar-StyledListItemTopBar-StyledListItemTopBar"] > span {
+    background-color: var(--midgrey);
+    border-radius: var(--border-radius);
+}
+
+
+/* IMAGE FIELD */
+[class*="-ImageWrapper-checkerboard"] {
+    float: left;
+}
+[id^=image-field] {
+    background-color: var(--lightgrey) !important;
+}
+[id^=images-field] {
+    background-color: var(--lightgrey) !important;
+}
+[id^=image-field] div {
+    background-color: transparent;
+}
+[id^=image-field] [class*="-ControlContainer"]:nth-child(2),
+[id^=images-field] [class*="-ControlContainer"]:nth-child(2) {
+    clear: none;
+    float: left;
+    margin-top: 0 !important;
+}
+[id^=image-field] > div:last-child > div:nth-child(3),
+[id^=images-field] > div:last-child > div:nth-child(3) {
+    clear: left;
+}
+[id^=image-field] input[type="text"],
+[id^=images-field] input[type="text"] {
+    padding: 5px !important;
+}
+
+
+/* TOOLBAR */
+[class*="-ToolbarContainer"] {
+    background: var(--grey) !important;
+    padding: 5px !important;
+}
+[class*="-ToolbarContainer"] {
+    min-height: auto !important;
+}
+[class$="-Editor"] > div:last-child {
+    background: white;
+    border-color: var(--grey) !important;
+}
+[class$="-Editor"] [contenteditable="true"] {
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+[class$="-Editor"] [contenteditable="true"] p {
+    margin-bottom: 0;
+}
+
+
+/* ASIDE */
+[class*="-TreeNavLink-TreeNavLink"] > div > div:nth-child(2) {
+    display: none;
+}
+aside ul [class*="-IconWrapper"]::before {
+    display: inline-block;
+    font-family: bootstrap-icons !important;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: -.125em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+aside ul [class*="-IconWrapper"] svg,
+aside h2 {
+    display: none;
+}
+aside ul span::before {
+    content: '\F392';
+}
+aside [href="#/collections/indexes"] span::before {
+    content: '\F2EC';
+}
+aside [href="#/collections/config"] span::before {
+    content: '\F3E5';
+}
+aside [href="#/collections/services"] span::before {
+    content: '\F705';
+}
+aside [href="#/collections/ebooks"] span::before {
+    content: '\F194';
+}
+aside [href="#/collections/publications"] span::before {
+    content: '\F4A3';
+}
