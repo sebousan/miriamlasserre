@@ -2,10 +2,26 @@ footer[role="contentinfo"]
     padding-bottom: 0
     .description
         @extend .h2
+    .row
+        @include media-breakpoint-up(md)
+            align-items: center
     .row > div
         @extend .col-md-6
+
     .top
         @include padding-bottom($global-spacing)
+        p
+            margin-bottom: 0
+        em ~ a,
+        em ~ span
+            @extend .h3
+        em ~ a
+            text-decoration-color: transparent
+            &:hover
+                text-decoration-color: $footer-color
+        .nav
+            @include margin-top(1.25rem)
+
     .bottom
         background-color: $body-bg
         padding-bottom: px2rem(10)
