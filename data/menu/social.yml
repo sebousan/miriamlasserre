@@ -6,7 +6,7 @@ fr:
     - blank: true
       url: https://www.instagram.com/miriamlasserrestylist/
       title: Instagram
-    - blank: false
+    - blank: true
       url: https://www.pinterest.fr/miriamlasserre/
       title: Pinterest
     - blank: true
@@ -20,7 +20,7 @@ en:
     - blank: true
       url: https://www.instagram.com/miriamlasserrestylist/
       title: Instagram
-    - blank: false
+    - blank: true
       url: https://www.pinterest.fr/miriamlasserre/
       title: Pinterest
     - blank: true
