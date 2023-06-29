@@ -23,9 +23,13 @@
             {{ end }}
 
             {{ with .image }}
-              {{ $column := 1.5 }}
+              {{- $lazy := true -}}
+              {{- $column := 1.5 -}}
+              {{ if eq $index 0 }}
+                {{- $lazy = false -}}
+              {{ end }}
               {{ if mod $index 3 }}
-                {{ $column = 3 }}
+                {{- $column = 3 -}}
               {{ end }}
               {{- $columnTotal := site.Params.column | default false -}}
               {{- $desktop := site.Params.container.desktop | default false -}}
@@ -46,6 +50,7 @@
                 "alt" .alt 
                 "desktop" $desktop
                 "mobile" $mobile
+                "lazy" $lazy
                 ) }}
             {{ end }}
 

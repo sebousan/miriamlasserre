@@ -1,0 +1,13 @@
+.block-cta
+    @include media-breakpoint-up(lg)
+        text-align: center
+    .btn
+        @extend .btn-outline-primary
+        &::after
+            content: none
+    .surtitle
+        display: block
+    span + span
+        @extend .h2
+        margin-bottom: 0
+        text-transform: none

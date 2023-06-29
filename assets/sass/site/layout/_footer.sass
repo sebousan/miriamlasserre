@@ -1,0 +1,23 @@
+footer[role="contentinfo"]
+    padding-bottom: 0
+    .description
+        @extend .h2
+    .row > div
+        @extend .col-md-6
+    .top
+        @include padding-bottom($global-spacing)
+    .bottom
+        background-color: $body-bg
+        padding-bottom: px2rem(10)
+        padding-top: px2rem(10)
+        .container
+            align-items: baseline
+            display: flex
+            flex-direction: row-reverse
+            justify-content: space-between
+        p
+            font-family: $font-family-sans-serif
+            font-size: $small-font-size
+            letter-spacing: .087em
+            margin-bottom: 0
+            text-transform: uppercase

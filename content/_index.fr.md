@@ -21,4 +21,10 @@ blocks:
         url: /a-propos
         image:
           src: /images/uploads/miriam-lasserre.jpg
+  - type: cta
+    cta:
+      surtitle: Instagram
+      text: "@Miriamlasserrestylist"
+      blank: true
+      url: https://www.instagram.com/miriamlasserrestylist
 ---

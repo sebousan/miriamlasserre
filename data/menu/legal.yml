@@ -3,8 +3,14 @@ fr:
     - blank: false
       url: /mentions-legales/
       title: Mentions légales
+    - blank: false
+      url: /plan-du-site/
+      title: Plan du site
 en:
   links:
     - blank: false
       url: /en/legals-mentions/
       title: Legals mentions
+    - blank: false
+      url: /en/sitemap/
+      title: Sitempa

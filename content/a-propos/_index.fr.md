@@ -17,10 +17,10 @@ blocks:
     background: false
     quote: "« Vos vêtements parlent de vous : ils reflètent votre personnalité, vos
       choix, votre mode de vie. Une garde-robe soigneusement sélectionnée peut
-      faire la différence et faciliter votre quotidien ! Mon quotidien à moi
-      est d’écouter et d’accompagner mes clients, pour les aider à révéler
-      leur style et construire un dressing qui leur ressemble et s’adaptera à
-      toutes les occasions. »"
+      faire la différence et faciliter votre quotidien ! Mon quotidien à moi est
+      d’écouter et d’accompagner mes clients, pour les aider à révéler leur
+      style et construire un dressing qui leur ressemble et s’adaptera à toutes
+      les occasions. »"
   - type: paragraph
     grid: small
     offset: center
@@ -39,7 +39,7 @@ blocks:
       traînera dans le placard car elle ne leur correspond pas.
   - type: quote
     background: false
-    quote: «Ma passion et ma mission est d’aider ces hommes et ces femmes à révéler
+    quote: « Ma passion et ma mission est d’aider ces hommes et ces femmes à révéler
       leur style, les accompagner dans le cadre d’une prestation
       ultra-personnalisée, avec beaucoup d’empathie et de complicité. Investir
       dans de bons conseils de style s’avèrera moins couteux à long terme que
@@ -74,4 +74,9 @@ blocks:
 
 
       Acheter une pièce en pensant: « Je la porterai un jour pour une occasion », « quand j’aurai perdu du poids», « si je suis invitée à un événement »… Pour être sûre qu’il s’agit d’un bon investissement, vous devez vous projeter tout de suite avec cette nouvelle pièce et être capable de la combiner avec 3 autres pièces de votre garde-robe.
+  - type: cta
+    cta:
+      surtitle: Publications
+      text: dans la Presse
+      url: /presse
 ---

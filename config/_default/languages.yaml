@@ -4,6 +4,7 @@ fr:
   title: Miriam Lasserre
   weight: 1
   permalinks:
+    ebooks: /ebooks/:year-:slug/
     publications: /presse/:slug/
 
 en:
@@ -12,4 +13,5 @@ en:
   title: Miriam Lasserre
   weight: 2
   permalinks:
+    ebooks: /ebooks/:year-:slug/
     publications: /press/:slug/

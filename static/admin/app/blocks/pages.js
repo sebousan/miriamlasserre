@@ -1,4 +1,3 @@
-import { heading } from '../fields/heading.js'
 import { title } from '../fields/title.js'
 import { url } from '../fields/url.js'
 import { image } from '../fields/image.js'
@@ -12,7 +11,6 @@ export const block_pages = {
     collapsed: false,
     summary: '{{heading.title}}',
     fields: [
-        heading,
         {
             name: 'items',
             label: 'Pages',

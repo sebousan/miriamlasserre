@@ -20,4 +20,10 @@ blocks:
         url: /en/about-me
         image:
           src: /images/uploads/miriam-lasserre.jpg
+  - type: cta
+    cta:
+      surtitle: Instagram
+      text: "@Miramlasserrestylist"
+      blank: true
+      url: https://www.instagram.com/miramlasserrestylist
 ---
