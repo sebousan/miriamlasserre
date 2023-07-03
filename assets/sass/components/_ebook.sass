@@ -5,6 +5,12 @@
     --bs-card-spacer-x: 1.25rem
     --bs-card-spacer-y: 1.25rem
     @extend .card
+    @include media-breakpoint-up(md)
+        align-items: center
+        flex-direction: row
+        margin-left: auto
+        margin-right: auto
+        width: 66%
     a
         @extend .stretched-link
     .media
@@ -12,3 +18,5 @@
     .name
         font-family: $headings-font-family
         font-size: $h2-font-size
+    .btn
+        @extend .btn-outline-primary

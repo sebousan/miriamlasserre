@@ -23,7 +23,7 @@ blocks:
   - type: cta
     cta:
       surtitle: Instagram
-      text: "@Miramlasserrestylist"
+      text: "@Miriamlasserrestylist"
       blank: true
-      url: https://www.instagram.com/miramlasserrestylist
+      url: https://www.instagram.com/miriamlasserrestylist
 ---
