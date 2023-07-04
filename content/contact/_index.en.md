@@ -12,4 +12,29 @@ hero:
   align: start
   image:
     darken: true
+blocks:
+  - type: form
+    grid: medium
+    background: false
+    items:
+      - type: text
+        label: Lastname
+        autocomplete: family-name
+        required: true
+      - type: text
+        label: Firstname
+        autocomplete: given-name
+        required: true
+      - type: email
+        autocomplete: email
+        label: E-mail
+        full: true
+        required: true
+      - type: textarea
+        label: Message
+        full: true
+        required: true
+    submit: Send
+    name: contact
+    offset: center
 ---

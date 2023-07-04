@@ -11,6 +11,7 @@ export const availableBlocks = [
     'embed',
     'faq',
     'figure',
+    'form',
     'gallery',
     // 'chart',
     'images',
