@@ -15,7 +15,7 @@ blocks:
       - title: Ebooks
         url: /en/ebooks
         image:
-          src: /images/uploads/look.jpeg
+          src: /images/uploads/img_6900.jpg
       - title: Miriam
         url: /en/about-me
         image:
