@@ -15,7 +15,7 @@ description: What better way to explore the worldwide capital of fashion, than
   being accompanied by a local Personal Shopper, an expert who will share the
   best spots of the city ?
 image:
-  src: /images/uploads/paris-shopping-tours.jpg
+  src: /images/uploads/img_6902.jpg
 offer: Prices available upon request
 ---
 What better way to explore the worldwide capital of fashion, than being accompanied by a local Personal Shopper, an expert who will share the best spots of the city ? Whether you want to enjoy the current trendy and hip places, the inescapable must-see fashion addresses, or whether you’d rather discover Parisian hidden gems that only a few know about…Miriam offers you a unique, unforgettable and 100% personalized experience of Paris !
