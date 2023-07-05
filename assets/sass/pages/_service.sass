@@ -14,7 +14,9 @@
                 grid-row: 1
 
         .title
-            @extend .h2
+            @include font-size($h2-font-size)
+            font-family: $headings-font-family
+            line-height: 1.2
             & + p
                 font-family: $font-family-sans-serif
                 font-size: $small-font-size
