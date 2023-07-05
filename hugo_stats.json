@@ -82,6 +82,7 @@
       "hero-media",
       "hero-start",
       "home-page",
+      "input-group",
       "instagram",
       "items",
       "logo",
@@ -96,6 +97,7 @@
       "nav-primary",
       "nav-secondary",
       "nav-social",
+      "newsletter",
       "next",
       "offcanvas",
       "offer",
@@ -129,8 +131,7 @@
       "text",
       "title",
       "toc",
-      "top",
-      "twitter"
+      "top"
     ],
     "ids": [
       "TableOfContents",
@@ -152,6 +153,9 @@
       "les-produits-et-services",
       "limitations-contractuelles",
       "main",
+      "mc-embedded-subscribe",
+      "mc-embedded-subscribe-form",
+      "mce-EMAIL",
       "mentions-legales",
       "navigation",
       "navigationLabel",

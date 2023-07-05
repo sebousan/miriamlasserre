@@ -26,6 +26,28 @@ footer[role="contentinfo"]
                 text-decoration-color: $footer-color
         .nav
             @include margin-top(1.25rem)
+            @include media-breakpoint-up(md)
+                float: right
+    
+    .newsletter
+        @include margin-top(1.25rem)
+        @include media-breakpoint-up(md)
+            float: left
+        p
+            align-self: center
+            font-family: $headings-font-family
+            font-size: px2rem(18)
+            font-style: italic
+            padding-right: px2rem(20)
+            text-transform: lowercase
+        .form-label
+            display: none
+        .form-control
+            border: 0
+            padding: 0 px2rem(10)
+        .btn
+            --bs-btn-padding-x: .8rem
+            --bs-btn-padding-y: .8rem
 
     .bottom
         background-color: $body-bg

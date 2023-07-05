@@ -1,11 +1,16 @@
+download: Télécharger le PDF
 ebooks:
   title:
     one: Ebook
     other: Ebooks
+newsletter:
+  email: E-mail
+  placeholder: nom@email.com
+  submit: OK
+  title: Newsletter
+related: Vous pourriez aussi aimer
 services:
   book: Réserver
   title:
     one: Service
     other: Services
-download: Télécharger le PDF
-related: Vous pourriez aussi aimer

@@ -1,11 +1,16 @@
+download: Download PDF
 ebooks:
   title:
     one: Ebook
     other: Ebooks
+newsletter:
+  email: E-mail
+  placeholder: name@email.com
+  submit: OK
+  title: Newsletter
+related: You might also like
 services:
   book: Book
   title:
     one: Service
     other: Services
-download: Download PDF
-related: You might also like
