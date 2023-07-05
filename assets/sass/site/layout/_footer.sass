@@ -8,7 +8,8 @@ footer[role="contentinfo"]
         @include media-breakpoint-up(md)
             align-items: center
         > div
-            @extend .col-md-6
+            @include media-breakpoint-up(md)
+                @include make-col(6)
             @include media-breakpoint-down(md)
                 &:last-child
                     margin-top: 2rem
