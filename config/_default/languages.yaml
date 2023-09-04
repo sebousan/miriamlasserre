@@ -5,6 +5,7 @@ fr:
   weight: 1
   permalinks:
     ebooks: /ebooks/:year-:slug/
+    expertises: /services/:slug/
     publications: /presse/:slug/
 
 en:
@@ -14,4 +15,5 @@ en:
   weight: 2
   permalinks:
     ebooks: /ebooks/:year-:slug/
+    expertises: /services/:slug/
     publications: /press/:slug/

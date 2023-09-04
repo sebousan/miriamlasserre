@@ -7,10 +7,10 @@ import { title } from '../fields/title.js'
 import { body } from '../fields/body.js'
 
 const services = {
-    name: 'services',
+    name: 'expertises',
     label: 'Services',
     label_singular: 'service',
-    folder: 'content/services',
+    folder: 'content/expertises',
     create: true,
 
     editor: { preview: false },

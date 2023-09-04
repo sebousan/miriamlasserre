@@ -1,9 +1,0 @@
-{{ $pages := first 3 (where (where .Site.RegularPages "Section" "in" "services") "Permalink" "ne" .Permalink) }}
-{{ with $pages }}
-<section class="related">
-  <header class="heading">
-    <h2>{{ i18n "related" }}</h2>
-  </header>
-  {{ partial "services/items" (dict "pages" $pages) }}
-</section>
-{{ end }}

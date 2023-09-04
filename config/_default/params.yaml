@@ -9,12 +9,15 @@ publications:
     _merge: deep
     desktop: "410x615"
     mobile: "300x450"
-services:
+expertises:
+  _merge: deep
   thumbnail:
+    _merge: deep
     desktop: "410x410"
     mobile: "300x300"
     scrollsnap: "240x240"
   image:
+    _merge: deep
     desktop: "856x"
     mobile: "300x"
 ebooks:

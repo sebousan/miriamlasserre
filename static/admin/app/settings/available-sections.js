@@ -1,4 +1,4 @@
 export const availableSections = [
-    { label: 'Service', value: 'services' },
+    { label: 'Service', value: 'expertises' },
     { label: 'Parution', value: 'publications' }
 ]
