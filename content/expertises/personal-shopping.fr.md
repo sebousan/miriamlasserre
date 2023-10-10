@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:52:12.347Z
-title: Personal shopping
+title: Personal Shopping
 hero:
   cta:
     blank: false
