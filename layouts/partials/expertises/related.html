@@ -1,9 +1,11 @@
 {{ $pages := first 3 (where (where .Site.RegularPages "Section" "in" "expertises") "Permalink" "ne" .Permalink) }}
 {{ with $pages }}
 <section class="related">
-  <header class="heading">
-    <h2>{{ i18n "related" }}</h2>
-  </header>
-  {{ partial "expertises/items" (dict "pages" $pages) }}
+  <div class="container">
+    <header class="heading">
+      <h2>{{ i18n "related" }}</h2>
+    </header>
+    {{ partial "expertises/items" (dict "pages" $pages) }}
+  </div>
 </section>
 {{ end }}

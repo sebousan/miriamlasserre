@@ -1,5 +1,4 @@
 footer[role="contentinfo"]
-    padding-bottom: 0
     .description
         @include font-size($h2-font-size)
         font-family: $headings-font-family
@@ -16,6 +15,8 @@ footer[role="contentinfo"]
 
     .top
         @include padding-bottom($global-spacing)
+        @include padding-top($global-spacing)
+        background-color: $footer-background-color
         p
             margin-bottom: 0
         em ~ a,
@@ -55,7 +56,6 @@ footer[role="contentinfo"]
             --bs-btn-padding-y: .8rem
 
     .bottom
-        background-color: $body-bg
         padding-bottom: px2rem(10)
         padding-top: px2rem(10)
         .container
