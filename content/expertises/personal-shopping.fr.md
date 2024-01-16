@@ -16,9 +16,7 @@ description: Une séance de shopping sur-mesure au cours de laquelle Miriam,
   professionnelle.
 image:
   src: /images/uploads/personal.jpg
-offer: |-
-  Demi journée : 375 €
-  Journée Complète : 650 €
+offer: 150 eur/ heure
 ---
 *« Si vous vous sentez dépassé(e)s devant votre placard, pensez régulièrement que vous n’avez rien à vous mettre, vous changez plusieurs fois devant le miroir sans être jamais satisfait(e), vous avez besoin des conseils d’une experte pour apprendre comment associer et mixer les pièces. Le Personal Shopping est fait pour vous ! »*
 
