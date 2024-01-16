@@ -15,9 +15,7 @@ description: Sur-mesure Shopping session where Miriam will guide you through
   Style Tips to adopt a style that makes you shine.
 image:
   src: /images/uploads/personal.jpg
-offer: |-
-  Half day: 375 €
-  Whole day: 650 €
+offer: 150 eur/ hour
 ---
 *« If you feel overwhelmed or panic when looking in your closet ; if you often think that you have nothing to wear ; if you change several times in the morning never being satisfied with the result ; you might need a leg-up from an expert who will teach you exactly how to mix and match your pieces. The Personal Shopping service is made for you! »*
 
