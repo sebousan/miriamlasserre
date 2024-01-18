@@ -13,6 +13,10 @@ footer[role="contentinfo"]
                 &:last-child
                     margin-top: 2rem
 
+    .nav
+        @include media-breakpoint-down(md)
+            margin-left: - $nav-link-padding-x
+
     .top
         @include padding-bottom($global-spacing)
         @include padding-top($global-spacing)
@@ -70,3 +74,8 @@ footer[role="contentinfo"]
             letter-spacing: .087em
             margin-bottom: 0
             text-transform: uppercase
+        .nav
+            @include media-breakpoint-up(md)
+                margin-right: - $nav-link-padding-x
+
+

@@ -2,9 +2,8 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:51:00.000Z
+weight: 40
 title: Dressing detox
-image:
-  src: /images/uploads/detox-dressing.jpg
 hero:
   cta:
     blank: false
@@ -13,7 +12,9 @@ hero:
   align: start
   image:
     darken: true
-offer: 150 eur/ heure
+image:
+  src: /images/uploads/detox-dressing.jpg
+offer: 150 € / heure
 ---
 Saviez-vous que la plupart des gens ne portent en moyenne que 20% de leur garde-robe ? Si vous êtes dans ce cas, le Dressing Detox est fait pour vous, et fortement recommandé avant de se lancer dans de nouveaux achats. Une consultation chez vous, au cours de laquelle Miriam s’engage à :
 

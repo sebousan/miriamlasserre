@@ -9,7 +9,7 @@ publications:
     _merge: deep
     desktop: "410x615"
     mobile: "300x450"
-expertises:
+services:
   _merge: deep
   thumbnail:
     _merge: deep

@@ -2,6 +2,7 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:52:12.347Z
+weight: 20
 title: Personal Shopping
 hero:
   cta:
@@ -16,7 +17,7 @@ description: Une séance de shopping sur-mesure au cours de laquelle Miriam,
   professionnelle.
 image:
   src: /images/uploads/personal.jpg
-offer: 150 eur/ heure
+offer: 150 € / heure
 ---
 *« Si vous vous sentez dépassé(e)s devant votre placard, pensez régulièrement que vous n’avez rien à vous mettre, vous changez plusieurs fois devant le miroir sans être jamais satisfait(e), vous avez besoin des conseils d’une experte pour apprendre comment associer et mixer les pièces. Le Personal Shopping est fait pour vous ! »*
 

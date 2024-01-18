@@ -8,9 +8,6 @@ newsletter:
   placeholder: nom@email.com
   submit: OK
   title: Newsletter
-related: Vous pourriez aussi aimer
-expertises:
+services:
   book: Réserver
-  title:
-    one: Service
-    other: Services
+  related: Vous pourriez aussi aimer

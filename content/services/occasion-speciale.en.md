@@ -2,12 +2,13 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:48:43.072Z
+weight: 100
 title: Special event
 image:
   src: /images/uploads/events.jpg
 offer: |-
-  1 session of 2 hours : 190€
-  2 sessions of 2 hours, 350 €
+  1 session of 2 hours: 190€
+  2 sessions of 2 hours: 350 €
 ---
 For a wedding, a birthday, or any special event, you want to feel confident and radiant…but you are not very experienced with more formal wear. Miriam helps you find the outfit that will make you shine !
 

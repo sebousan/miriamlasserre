@@ -2,12 +2,13 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:48:48.836Z
+weight: 100
 title: Wedding
 description: It’s time to relax and let Miriam help you look your absolute best
   for your big day!
 image:
   src: /images/uploads/wedding.jpg
-offer: "2 days : 800€"
+offer: "2 days : 800 €"
 ---
 Your wedding-day is coming, all eyes will be on you, and you have not yet decided on your gown, your hairstyle or makeup, not to mention the accessories? It’s time to relax and let Miriam help you look your absolute best for your big day! This service includes :
 

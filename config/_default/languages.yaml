@@ -5,8 +5,8 @@ fr:
   weight: 1
   permalinks:
     ebooks: /ebooks/:year-:slug/
-    expertises: /services/:slug/
     publications: /presse/:slug/
+    services: /services/:slug/
 
 en:
   languageCode: EN
@@ -15,5 +15,5 @@ en:
   weight: 2
   permalinks:
     ebooks: /ebooks/:year-:slug/
-    expertises: /services/:slug/
     publications: /press/:slug/
+    services: /services/:slug/

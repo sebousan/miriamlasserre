@@ -2,9 +2,8 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:51:00.000Z
+weight: 40
 title: Dressing detox
-image:
-  src: /images/uploads/detox-dressing.jpg
 hero:
   cta:
     blank: false
@@ -13,7 +12,9 @@ hero:
   align: start
   image:
     darken: true
-offer: 150 eur/ hour
+image:
+  src: /images/uploads/detox-dressing.jpg
+offer: 150 € / hour
 ---
 Did you know that most people only wear 20% of their wardrobe?
 

@@ -1,0 +1,11 @@
+<div class="offer">
+  <p class="title">{{ partial "func/PrepareHTML" .Title }}</p>
+  {{ with .Params.offer }}
+    <p>{{ partial "func/PrepareHTML" (partial "func/LineBreak" .) }}</p>
+  {{ end }}
+  {{- $book_url := "/contact/" -}}
+  {{- if ne .Site.Language.Lang "fr" -}}
+    {{- $book_url = print "/" .Site.Language.Lang $book_url -}}
+  {{- end -}}
+  <a href="{{ $book_url | safeURL }}" class="btn">{{ i18n "services.book" }}</a>
+</div>

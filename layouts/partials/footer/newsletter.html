@@ -1,15 +1,14 @@
-<form action="https://miriamlasserre.us14.list-manage.com/subscribe/post?u=f3935bb12e82e1985626109e7&amp;id=92612471c4&amp;f_id=009199e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter" target="_self">
-  
+{{- $u := "f3935bb12e82e1985626109e7" -}}
+{{- $id := "92612471c4" -}}
+{{- $f_id := "009199e0f0" -}}
+<form action="https://miriamlasserre.us14.list-manage.com/subscribe/post?u={{$u}}&amp;id={{$id}}&amp;f_id={{$f_id}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletter" target="_self">
   <div aria-hidden="true" style="position: absolute; left: -5000px;">
-    <input type="text" name="b_f3935bb12e82e1985626109e7_92612471c4" tabindex="-1" value="">
+    <input type="text" name="b_{{$u}}_{{$id}}" tabindex="-1" value="">
   </div>
-
   <div class="input-group">
     <p>{{ i18n "newsletter.title" }}</p>
     <label for="mce-EMAIL" class="form-label">{{ i18n "newsletter.email" }}</label>
     <input type="email" name="EMAIL" id="mce-EMAIL" placeholder="{{ i18n "newsletter.placeholder" }}" required class="form-control">
-    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn" value="OK">
+    <input type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn" value="{{ i18n "newsletter.submit" }}">
   </div>
-
-    
 </form>

@@ -2,6 +2,7 @@
 isIndex: false
 draft: false
 date: 2023-06-27T10:47:27.498Z
+weight: 10
 title: Colorimétrie
 hero:
   cta:

@@ -1,7 +1,0 @@
-<div class="offer">
-  <p class="title">{{ partial "func/PrepareHTML" .Title }}</p>
-  {{ with .Params.offer }}
-    <p>{{ partial "func/PrepareHTML" (partial "func/LineBreak" .) }}</p>
-  {{ end }}
-  <a href="#" class="btn">{{ i18n "expertises.book" }}</a>
-</div>

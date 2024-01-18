@@ -1,9 +1,9 @@
-import expertises from '../content/expertises.js';
 import ebooks from '../content/ebooks.js';
 import publications from '../content/publications.js';
+import services from '../content/services.js';
 
 export default [
-    expertises,
+    services,
     ebooks,
     publications
 ]
