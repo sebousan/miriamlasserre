@@ -13,7 +13,7 @@ hero:
   align: start
   image:
     darken: true
-offer: "Half a day: 350 €"
+offer: 150 eur/ hour
 ---
 Did you know that most people only wear 20% of their wardrobe?
 

@@ -13,7 +13,7 @@ hero:
   align: start
   image:
     darken: true
-offer: "Demi journée : 350 €"
+offer: 150 eur/ heure
 ---
 Saviez-vous que la plupart des gens ne portent en moyenne que 20% de leur garde-robe ? Si vous êtes dans ce cas, le Dressing Detox est fait pour vous, et fortement recommandé avant de se lancer dans de nouveaux achats. Une consultation chez vous, au cours de laquelle Miriam s’engage à :
 
