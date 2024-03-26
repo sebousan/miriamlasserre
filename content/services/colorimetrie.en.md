@@ -17,7 +17,9 @@ description: Following the color analysis and Miriam’s personalized tips, you
   make-up and clothes.
 image:
   src: /images/uploads/color.jpg
-offer: 190€
+offer: |-
+  190€
+  Duo: 320€
 ---
 Do you wear certain colors because you like them or because they’re trendy ? Have you ever wondered if they were actually highlighting you best features? Carefully selecting the colors you wear is a milestone which can radically improve your image, make you look younger, more radiant and much more confident !
 
