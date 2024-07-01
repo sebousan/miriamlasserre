@@ -17,7 +17,7 @@ description: Pour visiter Paris, capitale internationale de la mode, quoi de
   découvrir les meilleures adresses ?
 image:
   src: /images/uploads/img_6902.jpg
-offer: Prix sur demande, devis personnalisé.
+offer: 150 eur / heure
 ---
 Pour visiter Paris, capitale internationale de la mode, quoi de mieux que de s’entourer d’une experte, une Personal Shopper qui vous fera découvrir les meilleures adresses ? Des enseignes les plus branchées, aux endroits incontournables, en passant par les boutiques d’initiés que seuls les Parisiens connaissent, Miriam vous offre une expérience inédite, inoubliable, et personnalisée selon vos attentes !
 
