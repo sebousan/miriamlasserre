@@ -30,6 +30,9 @@ OPTIONS:
 
 
 * Historic fashion tour starting at Place Vendome. I will take you to discover Saint Honoré, Le Marais, Saint Germain des Prés: luxury boutiques, vintage and Parisian creators will make a very special day. This service includes suggestions and reservation for a lunch. A very special day to discover the Parisian fashion and have the advices of a professional Stylist on how to adopt the "style a la française".
+
+
+
 * Visit to a Parisian Atelier of embroidery and beads work for luxury brands (Dior, Chanel, YSL).
 
   We will have an exclusive visit to this Atelier, in the 16eme arrondisement in Paris. You will see how workers do embroidery work for very special dresses for the Cruisse Collection and Fashion Shows of French luxury brands. They work as well to create dresses for the Oscars Galla, and Cannes.
@@ -39,6 +42,9 @@ OPTIONS:
   A familly small small and unique business where the owners will be there to tell you how they conceive the designs, how are their meetings with the brands and how they carefully do every single piece from beginning to end.
 
   No photos are allowed!
+
+
+
 *  The Fashion Experience: DIY Atelier. I take you into the world of designers de mode, where you will discover an authentic Parisian atelier in the heart of
 
   Montmatre. During this workshop you will start by visiting the best tissu shops at Montmatre. After that you will have access to a the Atelier of a French ready to wear and accessories brand where you learn how to create an accessory using the sewing machines and another professional tips while you can enjoy a
@@ -47,4 +53,4 @@ OPTIONS:
 
   You will have the choice between 4 personalised accessories
 
-  to create during the workshop: foulard, hair rubber, bow-tie or a tote bag
+  to create during the workshop: foulard, hair rubber, bow-tie or a tote bag.
