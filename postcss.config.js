@@ -20,7 +20,7 @@ module.exports = {
           /^[href^="#"]/,
           /^[href^="mailto"]/
         ],
-        deep: [/^tobii/]
+        // deep: [/^tobii/]
       },
       defaultExtractor: (content) => {
         let els = JSON.parse(content).htmlElements;
