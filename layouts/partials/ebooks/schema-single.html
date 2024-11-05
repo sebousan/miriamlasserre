@@ -4,12 +4,12 @@
     "@type": "Book",
     "bookFormat": "EBook",
     {{ with .Title }}
-      "headline": {{ . | plainify | safeHTML }},
-      "name": {{ . | plainify | safeHTML }},
+      "headline": {{ partial "func/PrepareData" . }},
+      "name": {{ partial "func/PrepareData" . }},
     {{ end }}
 
     {{ with .Params.image }}
-      "thumbnailUrl": {{ . | absURL }},
+      "thumbnailUrl": {{ .src | absURL }},
     {{ end }}
 
     {{ with .Date }}
@@ -17,11 +17,11 @@
     {{ end }}
 
     {{ with .Params.description }}
-      "description": {{ . | plainify | safeHTML }},
+      "description": {{ partial "func/PrepareData" . }},
     {{ end }}
 
     {{ with .Content }}
-      "articleBody": {{ . | plainify | safeHTML }},
+      "articleBody": {{ partial "func/PrepareData" . }},
     {{ end }}
 
     "author": {
