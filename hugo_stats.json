@@ -146,37 +146,6 @@
       "toc",
       "top"
     ],
-    "ids": [
-      "TableOfContents",
-      "conception",
-      "conditions-générales-de-vente",
-      "conditions-générales-dutilisation-du-site",
-      "données-personnelles-respect-de-votre-vie-privée-et-de-vos-libertés",
-      "droit-applicable-et-lois-concernées",
-      "ebooks",
-      "footer",
-      "form-0",
-      "form-0-email-2",
-      "form-0-text-0",
-      "form-0-text-1",
-      "form-0-textarea-3",
-      "help-form-0-email-2",
-      "hébergement",
-      "les-produits-et-services",
-      "limitations-contractuelles",
-      "main",
-      "mc-embedded-subscribe",
-      "mc-embedded-subscribe-form",
-      "mce-EMAIL",
-      "navigation",
-      "navigationLabel",
-      "pages",
-      "propriété-intellectuelle-et-contenu-du-site-internet",
-      "présentation-du-site-web",
-      "publications",
-      "services",
-      "toc",
-      "tocLabel"
-    ]
+    "ids": null
   }
 }

@@ -16,16 +16,12 @@ module.exports = {
           /-backdrop$/,
           /^is-/,
           /^has-/,
-          /^js-/,
-          /^[href^="#"]/,
-          /^[href^="mailto"]/
-        ],
-        // deep: [/^tobii/]
+          /^js-/
+        ]
       },
       defaultExtractor: (content) => {
         let els = JSON.parse(content).htmlElements;
-        els = els.tags.concat(els.classes);
-        return els;
+        return els.tags.concat(els.classes);
       }
     }
   }
