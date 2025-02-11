@@ -38,7 +38,7 @@ Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous 
 
 \-Couleurs conseillés pour vos cheveux, métaux et pierres précieuses. 
 
-\-Conseils Visagisme (lunettes, accessoires, boucles à oreilles)
+\-Conseils Visagisme (lunettes, accessoires, boucles à oreilles à privilégier).
 
 \-Conseils Morphologie: les pieces vestimentaires et accessoires qui vous équilibrer votre silhouette.
 
