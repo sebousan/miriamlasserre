@@ -18,7 +18,7 @@ image:
   src: /images/uploads/online.jpg
 offer: 150 € / Heure
 ---
-Vous n’habitez pas à Paris ou manquez de temps pour une séance de Personal Shopping ? Vous cherchez le cadeau idéal pour une occasion spéciale, mais manquez d’inspiration ? Optez pour la consultation on-line et profitez de l’expertise de Miriam depuis votre domicile:
+Vous n’habitez pas à Paris ou manquez de temps pour une séance de Personal Shopping ? Vous cherchez le cadeau idéal pour une occasion spéciale, mais manquez d’inspiration ? Optez pour la consultation on-line et profitez de l’expertise de Miriam depuis votre domicile :
 
 * Lors d’un rendez-vous ou entretien téléphonique/skype, définissez avec Miriam vos besoins, préférences de styles, budget.
 * Pour une séance de Personal Shopping à distance : recevez un lookbook personnalisé comprenant des conseils de style sur-mesure, vos « do et don’t », des astuces pour mixer les pièces, les marques adaptées à votre style et morphologie.
