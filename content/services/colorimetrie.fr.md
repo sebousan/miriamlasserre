@@ -24,8 +24,26 @@ Vous portez parfois certaines couleurs car elles sont à la mode ou que vous en 
 
 
 
-Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous seront envoyés après la séance. Vous aurez une explication de votre saison et sous-saison et comment utiliser les couleurs pour vous sublimer. Vous aurez aussi les teints pour votre maquillage (fond de teint, blush, rouge à lèvres, fard a paupières et mascara) et les bonnes couleurs pour vos cheveux, métaux et pierres précieuses. 
+Morphologie et Visagisme font fait partie aussi de ce service: les couleurs, formes et imprimés ont un rôle important pour créer de l'harmonie et équilibre sur votre silhouette.
 
 
 
-Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles nuances vous orienter lors de vos prochaines séances shoppings !
+Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous seront envoyés après la séance. Ce document inclut:
+
+
+
+\-Votre saison et sous-saison et comment utiliser les couleurs pour vous sublimer. 
+
+\-Teints pour votre maquillage (fond de teint, blush, rouge à lèvres, fard a paupières et mascara).
+
+\-Couleurs conseillés pour vos cheveux, métaux et pierres précieuses. 
+
+\-Conseils Visagisme (lunettes, accessoires, boucles à oreilles)
+
+\-Conseils Morphologie: les pieces vestimentaires et accessoires qui vous équilibrer votre silhouette.
+
+
+
+
+
+Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles nuances et pieces vous orienter lors de vos prochaines séances shoppings !

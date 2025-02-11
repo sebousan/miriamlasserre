@@ -29,8 +29,28 @@ The color analysis reveals which color pallets most brighten your natural assets
 
 
 
-After the session you will receive your digital palette (70 Pantone Colors)and a document reviewing all the tips.  You will have all the details about your season and sub-season and how to use your colors to look at your best. You will have as well your best shadows for make up (foundation, blush, lipstick, mascara and eyeshadow) and your best metals and precious stones.
+Facial analysis and Morphology are included in this service: Colors, prints and shapes have an important role to create harmony and balance in your silhouette.
 
 
 
-Following the color analysis and Miriam’s personalized tips, you will know exactly which shades to shift towards when you shop for both your make-up and clothes!
+After the session you will receive your digital palette (70 Pantone Colors) and a document reviewing all the tips.  This document includes:
+
+
+
+\-Your season and sub-season and how to use your colors to feel and look at your best.
+
+\-Your colors for make up (foundation, blush, lipstick, eyeshadow and mascara).
+
+\-Adviced colors for your hair, metals and precious stones
+
+\-Facial Shape advice (glasses, accessories, earrings).
+
+\-Morphology: Pieces and accesories which will balance your silhouette.
+
+
+
+You will have all the details about your season and sub-season and how to use your colors to look at your best. You will have all the shadows for make up corresponding to your sub season (foundation, blush, lipstick, mascara and eyeshadow) and your best metals and precious stones.
+
+
+
+Following the color analysis and Miriam’s personalized tips, you will know exactly which shades and forms to shift towards when you shop for both your make-up and clothes!
