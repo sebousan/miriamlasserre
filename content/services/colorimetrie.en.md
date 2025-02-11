@@ -53,4 +53,4 @@ You will have all the details about your season and sub-season and how to use yo
 
 
 
-Following the color analysis and Miriam’s personalized tips, you will know exactly which shades and forms to shift towards when you shop for both your make-up and clothes!
+Following the color analysis and Miriam’s personalised tips, you will know exactly which shades and forms to shift towards when you shop for both your make-up and clothes!

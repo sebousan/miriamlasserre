@@ -46,4 +46,4 @@ Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous 
 
 
 
-Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles nuances et pieces vous orienter lors de vos prochaines séances shoppings !
+Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles nuances et pièces vous orienter lors de vos prochaines séances shoppings !
