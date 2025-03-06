@@ -23,19 +23,13 @@ offer: |-
 ---
 Do you wear certain colors because you like them or because they’re trendy ? Have you ever wondered if they were actually highlighting you best features? Carefully selecting the colors you wear is a milestone which can radically improve your image, make you look younger, more radiant and much more confident !
 
-
-
 The color analysis reveals which color pallets most brighten your natural assets (*complexion, skin-tone, and body-type).*
 
 
 
 Facial analysis and Morphology are included in this service: Colors, prints and shapes have an important role to create harmony and balance in your silhouette.
 
-
-
 After the session you will receive your digital palette (70 Pantone Colors) and a document reviewing all the tips.  This document includes:
-
-
 
 \-Your season and sub-season and how to use your colors to feel and look at your best.
 
@@ -47,10 +41,6 @@ After the session you will receive your digital palette (70 Pantone Colors) and 
 
 \-Morphology: Pieces and accesories which will balance your silhouette.
 
-
-
 You will have all the details about your season and sub-season and how to use your colors to look at your best. You will have all the shadows for make up corresponding to your sub season (foundation, blush, lipstick, mascara and eyeshadow) and your best metals and precious stones.
-
-
 
 Following the color analysis and Miriam’s personalised tips, you will know exactly which shades and forms to shift towards when you shop for both your make-up and clothes!

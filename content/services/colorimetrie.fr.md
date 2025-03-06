@@ -24,26 +24,20 @@ Vous portez parfois certaines couleurs car elles sont à la mode ou que vous en 
 
 
 
-Morphologie et Visagisme font fait partie aussi de ce service: les couleurs, formes et imprimés ont un rôle important pour créer de l'harmonie et équilibre sur votre silhouette.
+Morphologie et Visagisme font aussi partie de ce service : les couleurs, formes et imprimés ont un rôle important pour créer de l’harmonie et de l’équilibre sur votre silhouette.
 
 
 
-Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous seront envoyés après la séance. Ce document inclut:
+Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous seront envoyés après la séance. Ce document inclut :
 
+\-Votre saison et sous-saison et comment utiliser les couleurs pour vous sublimer
 
+\-Teintes pour votre maquillage (fond de teint, blush, rouge à lèvres, fard à paupières et mascara)
 
-\-Votre saison et sous-saison et comment utiliser les couleurs pour vous sublimer. 
+\-Couleurs conseillées pour vos cheveux, métaux et pierres précieuses.
 
-\-Teints pour votre maquillage (fond de teint, blush, rouge à lèvres, fard a paupières et mascara).
+\-Conseils Visagisme (lunettes, accessoires, boucles d’oreilles à privilégier).
 
-\-Couleurs conseillés pour vos cheveux, métaux et pierres précieuses. 
+\-Conseils Morphologie : les pièces vestimentaires et accessoires qui vont équilibrer votre silhouette.
 
-\-Conseils Visagisme (lunettes, accessoires, boucles à oreilles à privilégier).
-
-\-Conseils Morphologie: les pieces vestimentaires et accessoires qui vous équilibrer votre silhouette.
-
-
-
-
-
-Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles nuances et pièces vous orienter lors de vos prochaines séances shoppings !
+Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles couleurs et pièces vous orienter lors de vos prochaines séances shoppings !
