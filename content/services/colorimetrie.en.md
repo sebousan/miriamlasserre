@@ -35,12 +35,12 @@ After the session you will receive your digital palette (70 Pantone Colors) and 
 
 \-Your colors for make up (foundation, blush, lipstick, eyeshadow and mascara).
 
-\-Adviced colors for your hair, metals and precious stones
+\-Adviced colors for your hair, metals and precious stones.
 
 \-Facial Shape advice (glasses, accessories, earrings).
 
 \-Morphology: Pieces and accesories which will balance your silhouette.
 
-You will have all the details about your season and sub-season and how to use your colors to look at your best. You will have all the shadows for make up corresponding to your sub season (foundation, blush, lipstick, mascara and eyeshadow) and your best metals and precious stones.
 
-Following the color analysis and Miriam’s personalised tips, you will know exactly which shades and forms to shift towards when you shop for both your make-up and clothes!
+
+Following the color analysis and Miriam’s personalised tips, you will know exactly which shades and forms to shift towards !

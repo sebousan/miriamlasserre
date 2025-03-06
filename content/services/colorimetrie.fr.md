@@ -40,4 +40,6 @@ Votre palette digitale (70 couleurs Pantone) et un document récapitulatif vous 
 
 \-Conseils Morphologie : les pièces vestimentaires et accessoires qui vont équilibrer votre silhouette.
 
+
+
 Grâce aux conseils personnalisés de Miriam, vous saurez directement vers quelles couleurs et pièces vous orienter lors de vos prochaines séances shoppings !
