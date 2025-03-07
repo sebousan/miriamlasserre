@@ -6,6 +6,7 @@ weight: 30
 image:
   src: /images/uploads/img_8902.jpg
   credit: Colorimetrie online
+offer: 190 eur
 ---
 *«The most beautiful color in the world is the one that makes you feel well» Coco Chanel*
 

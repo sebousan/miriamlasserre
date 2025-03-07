@@ -7,6 +7,7 @@ title: Colorimétrie online
 image:
   src: /images/uploads/img_8902.jpg
   alt: Colorimetrie online
+offer: 190 eur
 ---
 *« La plus belle couleur au monde est celle qui vous fait sentir bien. » Coco Chanel*
 
