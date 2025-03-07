@@ -4,7 +4,11 @@ draft: false
 date: 2025-02-11T20:27:00.000Z
 weight: 20
 title: Colorimétrie online (à distance)
-description: Colorimetry online
+description: La Colorimétrie peut être réalisée aussi à distance avec une
+  méthode très précise qui se base sur l’analyse des photos de votre visage et
+  votre iris dans des conditions déterminées. L’analyse de ces photos permet de
+  déterminer votre palette exacte selon la méthode des 12 saisons ainsi que la
+  forme de votre visage.
 image:
   src: /images/uploads/img_8902.jpg
   alt: Colorimetrie online
