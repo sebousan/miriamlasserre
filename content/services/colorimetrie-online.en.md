@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2025-02-11T20:27:00.000Z
-weight: 30
+weight: 20
 image:
   src: /images/uploads/img_8902.jpg
   credit: Colorimetrie online
