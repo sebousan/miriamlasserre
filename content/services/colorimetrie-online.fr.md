@@ -16,8 +16,6 @@ offer: 190 eur
 ---
 * *« La plus belle couleur au monde est celle qui vous fait sentir bien. » Coco Chanel*
 
-
-
 La Colorimétrie peut être réalisée aussi à distance avec une méthode très précise qui se base sur l’analyse des photos de votre visage et votre iris dans des conditions déterminées :
 
 \- sans maquillage ni lunettes
@@ -38,9 +36,7 @@ Le RDV Zoom avec Miriam dure 1 heure. Elle vous expliquera les bases de la mét
 
 \- Votre *saison et sous saison* avec votre palette de couleurs et des conseils pour l’utiliser ainsi que la forme de *votre visage* et les éléments à privilégier ou éviter pour créer de l’harmonie.
 
-
-
-*« Choisir les bonnes couleurs illumine votre teint, vous rend plus à l’aise et plus confiante » Miriam Lasserre*
+* *« Choisir les bonnes couleurs illumine votre teint, vous rend plus à l’aise et plus confiante » Miriam Lasserre*
 
 1 semaine après ce rdv vous recevrez votre palette de couleurs digitale et un document (20 pages aprox) qui explique précisément :
 

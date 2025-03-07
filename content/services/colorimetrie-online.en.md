@@ -36,7 +36,7 @@ Miriam will explain:
 
 \-       Your season and sub-season with your palette of colors and how to use it and your facial shape and how to create harmony.
 
-*« Choosing the good colors illuminates you and makes feel and look much more confident.»  Miriam Lasserre*
+* *« Choosing the good colors illuminates you and makes feel and look much more confident.»  Miriam Lasserre*
 
 1 week after, you will receive your digital color palette and a document (about 20 pages) with precise explanations about:
 
