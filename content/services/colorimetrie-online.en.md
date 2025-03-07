@@ -6,7 +6,9 @@ weight: 20
 title: Online Colorimetry
 description: The Colorimetry test can also be done at distance with a precise
   method based on the analysis of photos of your face and your iris in
-  determined conditions.
+  determined conditions. The analysis of those photos determines which is your
+  exact palette following the 12 seasons method as well as your exact facial
+  shape.
 image:
   src: /images/uploads/img_8902.jpg
   credit: Colorimetrie online
