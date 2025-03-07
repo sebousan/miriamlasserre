@@ -3,6 +3,9 @@ isIndex: false
 draft: true
 date: 2025-02-11T20:27:00.000Z
 weight: 30
+image:
+  src: /images/uploads/img_8902.jpg
+  credit: Colorimetrie online
 ---
 *«The most beautiful color in the world is the one that makes you feel well» Coco Chanel*
 

@@ -4,6 +4,9 @@ draft: true
 date: 2025-02-11T20:27:00.000Z
 weight: 30
 title: Colorimétrie online
+image:
+  src: /images/uploads/img_8902.jpg
+  alt: Colorimetrie online
 ---
 *« La plus belle couleur au monde est celle qui vous fait sentir bien. » Coco Chanel*
 
