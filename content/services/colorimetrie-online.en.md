@@ -4,12 +4,15 @@ draft: false
 date: 2025-02-11T20:27:00.000Z
 weight: 20
 title: Online Colorimetry
+description: The Colorimetry test can also be done at distance with a precise
+  method based on the analysis of photos of your face and your iris in
+  determined conditions.
 image:
   src: /images/uploads/img_8902.jpg
   credit: Colorimetrie online
 offer: 190 eur
 ---
-*«The most beautiful color in the world is the one that makes you feel well» Coco Chanel*
+* *«The most beautiful color in the world is the one that makes you feel well» Coco Chanel*
 
 The Colorimetry test can also be done at distance with a precise method based on the analysis of photos of your face and your iris in determined conditions:
 
@@ -32,8 +35,6 @@ The Zoom Meeting with Miriam lasts 1 hour. Miriam will explain you the basis o
 Miriam will explain:
 
 \-       Your season and sub-season with your palette of colors and how to use it and your facial shape and how to create harmony.
-
-
 
 *« Choosing the good colors illuminates you and makes feel and look much more confident.»  Miriam Lasserre*
 
