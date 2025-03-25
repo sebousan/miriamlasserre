@@ -10,7 +10,7 @@ description: The Colorimetry test can also be done at distance with a precise
   exact palette following the 12 seasons method as well as your exact facial
   shape.
 image:
-  src: /images/uploads/img_8902.jpg
+  src: /images/uploads/screenshot-2025-03-25-at-17.59.33.png
   credit: Colorimetrie online
 offer: 190 eur
 ---

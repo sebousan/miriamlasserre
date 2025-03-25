@@ -10,7 +10,7 @@ description: La Colorimétrie peut être réalisée aussi à distance avec une
   déterminer votre palette exacte selon la méthode des 12 saisons ainsi que la
   forme de votre visage.
 image:
-  src: /images/uploads/img_8902.jpg
+  src: /images/uploads/screenshot-2025-03-25-at-17.59.33.png
   alt: Colorimetrie online
 offer: 190 eur
 ---
