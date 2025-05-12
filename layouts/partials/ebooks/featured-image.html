@@ -1,12 +1,1 @@
-{{ with .Params.image}}
-  {{ $desktop := site.Params.ebooks.image.desktop | default false }}
-  {{ $mobile := site.Params.ebooks.image.mobile | default false }}
-  {{ partial "commons/image.html" (dict
-    "src" .src
-    "alt" .alt
-    "credit" .credit
-    "picture_class" "featured-image"
-    "desktop" $desktop
-    "mobile" $mobile
-  ) }}
-{{ end }}
+{{ partial "commons/featured-image.html" . }}

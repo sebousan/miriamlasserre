@@ -10,23 +10,18 @@ description: The Colorimetry test can also be done at distance with a precise
   exact palette following the 12 seasons method as well as your exact facial
   shape.
 image:
-  src: /images/uploads/screenshot-2025-03-25-at-17.59.33.png
-  credit: Colorimetrie online
+  src: /images/uploads/online-colorimetry.png
 offer: 190 eur
 ---
-* *«The most beautiful color in the world is the one that makes you feel well» Coco Chanel*
+> «The most beautiful color in the world is the one that makes you feel well» Coco Chanel
 
 The Colorimetry test can also be done at distance with a precise method based on the analysis of photos of your face and your iris in determined conditions:
 
-\- without make up and glasses
-
-\- with natural light
-
-\- no direct sunlight exposition
-
-\- specific time daylight
-
-\- specific frame
+* without make up and glasses
+* with natural light
+* no direct sunlight exposition
+* specific time daylight
+* specific frame
 
 The analysis of those photos determines which is your exact palette following the 12 seasons method as well as your exact facial shape. 
 
@@ -36,12 +31,11 @@ The Zoom Meeting with Miriam lasts 1 hour. Miriam will explain you the basis o
 
 Miriam will explain:
 
-\-       Your season and sub-season with your palette of colors and how to use it and your facial shape and how to create harmony.
-
-* *« Choosing the good colors illuminates you and makes feel and look much more confident.»  Miriam Lasserre*
+* Your season and sub-season with your palette of colors and how to use it and your facial shape and how to create harmony.
+> « Choosing the good colors illuminates you and makes feel and look much more confident.»  Miriam Lasserre
 
 1 week after, you will receive your digital color palette and a document (about 20 pages) with precise explanations about:
 
-\-       Your Colorimetry and how to use it to create enhancing outfits. Your best colors for make up (foundation, lipstick, blush, eyeliner, eyeshadow, and mascara) and some references that match your season. 
+* Your Colorimetry and how to use it to create enhancing outfits. Your best colors for make up (foundation, lipstick, blush, eyeliner, eyeshadow, and mascara) and some references that match your season.
 
-\-       Your facial shape and corrections to apply (if needed) to add harmony and balance to your personal image by accessories, glasses, earrings, haircuts and hair colors.
+* Your facial shape and corrections to apply (if needed) to add harmony and balance to your personal image by accessories, glasses, earrings, haircuts and hair colors.

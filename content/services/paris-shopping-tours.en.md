@@ -25,7 +25,7 @@ What better way to explore the worldwide capital of fashion, than being accompan
 
 
 
-OPTIONS:
+**Options:**
 
 
 

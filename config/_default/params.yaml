@@ -3,6 +3,9 @@ gutter: 30
 hero:
   desktop: "850x"
   mobile: "300x"
+image:
+  _merge: deep
+  desktop: "615x"
 publications:
   _merge: deep
   thumbnail:
@@ -16,15 +19,8 @@ services:
     desktop: "410x410"
     mobile: "300x300"
     scrollsnap: "240x240"
-  image:
-    _merge: deep
-    desktop: "856x"
-    mobile: "300x"
 ebooks:
   thumbnail:
     desktop: "410x615"
-    mobile: "300x450"
+    mobile: "315x473"
     scrollsnap: "240x240"
-  image:
-    desktop: "615x"
-    mobile: "300x"

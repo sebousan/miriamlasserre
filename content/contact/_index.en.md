@@ -19,19 +19,23 @@ blocks:
     items:
       - type: text
         label: Lastname
+        name: Lastname
         autocomplete: family-name
         required: true
       - type: text
         label: Firstname
+        name: Firstname
         autocomplete: given-name
         required: true
       - type: email
         autocomplete: email
         label: E-mail
+        name: e-mail
         full: true
         required: true
       - type: textarea
         label: Message
+        name: message
         full: true
         required: true
     submit: Send

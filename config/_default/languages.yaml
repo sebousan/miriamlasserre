@@ -1,5 +1,5 @@
 fr:
-  languageCode: FR
+  languageCode: fr
   languageName: Français
   title: Miriam Lasserre
   weight: 1
@@ -9,7 +9,7 @@ fr:
     services: /services/:slug/
 
 en:
-  languageCode: EN
+  languageCode: en
   languageName: English
   title: Miriam Lasserre
   weight: 2

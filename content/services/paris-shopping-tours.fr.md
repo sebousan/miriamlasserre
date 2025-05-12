@@ -23,9 +23,7 @@ offer: |-
 ---
 Pour visiter Paris, capitale internationale de la mode, quoi de mieux que de s’entourer d’une experte, une Personal Shopper qui vous fera découvrir les meilleures adresses ? Des enseignes les plus branchées, aux endroits incontournables, en passant par les boutiques d’initiés que seuls les Parisiens connaissent, Miriam vous offre une expérience inédite, inoubliable, et personnalisée selon vos attentes !
 
-
-
-OPTIONS:
+**Options :**
 
 * Une journée complète avec un parcours sur l'histoire de la mode à Paris qui démarre à la Place Vendome. Miriam vous fait découvrir des quartiers incontournables de la mode parisienne: Saint Honoré, le Marais, Saint Germain des Prés. Ce service inclut des conseils et reservations de restaurants pour le dejeuner. Journée idéale pour plonger au cœur de la mode parisienne et profiter des conseils d'une Styliste professionnel pour adopter le style "à la française".
 
