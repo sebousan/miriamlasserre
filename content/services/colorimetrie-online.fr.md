@@ -10,7 +10,7 @@ description: La Colorimétrie peut être réalisée aussi à distance avec une
   déterminer votre palette exacte selon la méthode des 12 saisons ainsi que la
   forme de votre visage.
 image:
-  src: /images/uploads/online-colorimetry.png
+  src: /images/uploads/online-colorimetry.jpg
 offer: 190 eur
 ---
 > « La plus belle couleur au monde est celle qui vous fait sentir bien. » Coco Chanel

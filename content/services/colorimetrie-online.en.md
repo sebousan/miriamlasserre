@@ -10,7 +10,7 @@ description: The Colorimetry test can also be done at distance with a precise
   exact palette following the 12 seasons method as well as your exact facial
   shape.
 image:
-  src: /images/uploads/online-colorimetry.png
+  src: /images/uploads/online-colorimetry.jpg
 offer: 190 eur
 ---
 > «The most beautiful color in the world is the one that makes you feel well» Coco Chanel
