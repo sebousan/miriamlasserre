@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 date: 2023-06-27T10:47:27.498Z
 weight: 10
-title: Colorimétrie
+title: "Atelier Style: Colorimétrie, Visagisme et Morphologie"
 hero:
   cta:
     blank: false
@@ -17,8 +17,8 @@ description: Grâce aux conseils personnalisés de Miriam, vous saurez directeme
 image:
   src: /images/uploads/color.jpg
 offer: |-
-  190€
-  Offre duo: 350€
+  210€
+  Offre duo: 380€
 ---
 Vous portez parfois certaines couleurs car elles sont à la mode ou que vous en avez l’habitude, mais sont-elles faites pour vous, ou au contraire vous desservent-elles ? Choisir les couleurs qui vous vont est une étape-clé, qui peut radicalement changer votre image, illuminer votre teint, vous rajeunir, vous sublimer !
 

@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 date: 2023-06-27T10:47:27.498Z
 weight: 10
-title: Colorimetry
+title: "Style Atelier: Colorimetry, Morphology and Face Shape"
 hero:
   cta:
     blank: false
@@ -18,8 +18,8 @@ description: Following the color analysis and Miriam’s personalized tips, you
 image:
   src: /images/uploads/color.jpg
 offer: |-
-  190€
-  Duo: 350€
+  210€
+  Duo: 380€
 ---
 Do you wear certain colors because you like them or because they’re trendy ? Have you ever wondered if they were actually highlighting you best features? Carefully selecting the colors you wear is a milestone which can radically improve your image, make you look younger, more radiant and much more confident !
 
