@@ -34,7 +34,7 @@ admin:
 
   # CMS
   cms: decapcms
-  version: "3.8.0"
+  # version: "3.8.0"
 
   # Locales
   i18n:
@@ -56,6 +56,8 @@ admin:
         - field: isIndex
           value: false
       summary: "{{title}} — {{year}}"
+      nested:
+        depth: 1
       fields:
         - is_not_index
         - draft
