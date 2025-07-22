@@ -1,5 +1,9 @@
 _merge: deep
+
+# Front
 gutter: 30
+
+# Images
 hero:
   desktop: "850x"
   mobile: "300x"
@@ -27,6 +31,12 @@ ebooks:
 
 # Admin
 admin:
+
+  # CMS
+  cms: decapcms
+  version: "3.8.0"
+
+  # Locales
   i18n:
     default_locale: fr
     locales: '[fr,en]'
@@ -104,3 +114,8 @@ admin:
       - text
       - url
       - is_blank
+
+  # Shortcodes
+  shortcodes:
+    enable:
+      - blank_link
