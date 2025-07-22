@@ -6,19 +6,19 @@ blocks:
   - type: pages
     items:
       - title: Services
-        url: /services
+        url: /services/
         image:
           src: /images/uploads/detox-dressing.jpg
       - title: Contact
-        url: /contact
+        url: /contact/
         image:
           src: /images/uploads/online.jpg
       - title: Ebooks
-        url: /ebooks
+        url: /ebooks/
         image:
           src: /images/uploads/img_6900.jpg
       - title: Miriam
-        url: /a-propos
+        url: /a-propos/
         image:
           src: /images/uploads/miriam-lasserre.jpg
   - type: cta

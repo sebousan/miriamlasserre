@@ -1,0 +1,7 @@
+{
+  label: '{{ i18n "admin.fields.offer.label" }}',
+  name: 'offer',
+  widget: 'text',
+  required: false,
+  i18n: true
+}

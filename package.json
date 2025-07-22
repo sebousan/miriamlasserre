@@ -32,6 +32,6 @@
         "update:all": "yarn update && yarn tidy && yarn upgrade",
         "decapcms": "npx decap-server",
         "netlifycms": "npx netlify-cms-proxy-server",
-        "cms": "yarn netlifycms"
+        "cms": "yarn decapcms"
     }
 }
