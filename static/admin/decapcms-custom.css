@@ -1,0 +1,6 @@
+aside [href="#/collections/services"] span::before {
+    content: '\F705';
+}
+aside [href="#/collections/ebooks"] span::before {
+    content: '\F194';
+}

@@ -1,5 +1,6 @@
 ---
 draft: false
 title: Ebooks
-url: ebooks
+image:
+  src: /images/uploads/img_6900.jpg
 ---

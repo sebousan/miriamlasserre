@@ -24,3 +24,83 @@ ebooks:
     desktop: "410x615"
     mobile: "315x473"
     scrollsnap: "240x240"
+
+# Admin
+admin:
+  i18n:
+    default_locale: fr
+    locales: '[fr,en]'
+  
+  # Collections
+  collections:
+    indexes:
+      nested:
+        depth: 1
+      fields:
+        - is_index
+        - title_page
+        - blocks
+    ebooks:
+      enable: true
+      filter:
+        - field: isIndex
+          value: false
+      summary: "{{title}} — {{year}}"
+      fields:
+        - is_not_index
+        - draft
+        - date
+        - title_page
+        - description
+        - pdf
+        - featured_image
+        - body
+    pages:
+      nested:
+        depth: 1
+    publications:
+      summary: "{{title}} — {{year}}"
+      fields:
+        - is_not_index
+        - draft
+        - date
+        - title_page
+        - description
+        - press
+        - featured_image
+    services:
+      fields:
+        - is_not_index
+        - draft
+        - date
+        - weight
+        - title_page
+        - description
+        - featured_image
+        - offer
+        - body
+  
+  # Blocks
+  blocks:
+    enable:
+      - cta
+      - form
+      - pages
+      - paragraph
+      - quote
+      - testimonials
+    cta:
+      - cta
+    pages:
+      - items:
+          - title
+          - url
+          - image
+
+  # Fields
+  fields:
+    cta:
+      - surtitle
+      - text
+      - url
+      - is_blank
