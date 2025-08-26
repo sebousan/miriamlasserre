@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2025-02-11T20:27:00.000Z
-weight: 20
+weight: 30
 title: Colorimétrie online (à distance)
 description: La Colorimétrie peut être réalisée aussi à distance avec une
   méthode très précise qui se base sur l’analyse des photos de votre visage et

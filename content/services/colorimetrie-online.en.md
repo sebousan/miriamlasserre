@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2025-02-11T20:27:00.000Z
-weight: 20
+weight: 30
 title: Online Colorimetry
 description: The Colorimetry test can also be done at distance with a precise
   method based on the analysis of photos of your face and your iris in
