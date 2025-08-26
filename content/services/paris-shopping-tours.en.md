@@ -43,7 +43,7 @@ Discover as well the art of Upcycling (using fabrics of Haute Couture Maisons to
   A familly small small and unique business where the owners will be there to tell you how they conceive the designs, how are their meetings with the brands and how they carefully do every single piece from beginning to end.
 
   No photos are allowed!
-* The Fashion Experience: DIY Atelier. I take you into the world of designers de mode, where you will discover an authentic Parisian atelier in the heart of
+* **The Fashion Experience: DIY Atelier.** I take you into the world of designers de mode, where you will discover an authentic Parisian atelier in the heart of
 
   Montmatre. During this workshop you will start by visiting the best tissu shops at Montmatre. After that you will have access to a the Atelier of a French ready to wear and accessories brand where you learn how to create an accessory using the sewing machines and another professional tips while you can enjoy a
 
