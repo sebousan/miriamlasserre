@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2022-06-16T14:45:00.000Z
-weight: 50
+weight: 30
 title: Paris shopping tours
 hero:
   cta:
