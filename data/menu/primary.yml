@@ -8,7 +8,7 @@ fr:
       title: Services
     - blank: false
       title: Ebooks
-      url: /ebooks
+      url: /ebooks/
 en:
   links:
     - blank: false
@@ -19,4 +19,4 @@ en:
       title: Services
     - blank: false
       title: Ebooks
-      url: /en/ebooks
+      url: /en/ebooks/
