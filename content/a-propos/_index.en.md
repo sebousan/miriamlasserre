@@ -8,8 +8,8 @@ image:
 hero:
   align: start
   image:
-    darken: true
     src: /images/uploads/miriam-lasserre.jpg
+    credit: © Mathieu Vilasco
   surtitle: About me
   title: Miriam Lasserre
 blocks:
