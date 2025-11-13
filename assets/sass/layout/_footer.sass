@@ -25,13 +25,10 @@ footer[role="contentinfo"]
             margin-bottom: 0
         em ~ a,
         em ~ span
-            @include font-size($h3-font-size)
             font-family: $headings-font-family
             line-height: 1.2
         em ~ a
             text-decoration-color: transparent
-            @include media-breakpoint-down(md)
-                font-size: px2rem(20)
             &:hover
                 text-decoration-color: $footer-color
         .nav

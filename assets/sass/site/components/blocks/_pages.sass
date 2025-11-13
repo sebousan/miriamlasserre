@@ -35,7 +35,10 @@
         z-index: 1
     
     h2
-        font-size: $h2-font-size
+        @include font-size($h2-font-size)
+
+    picture
+        display: block
     
     @media (prefers-reduced-motion: no-preference)
         @include media-breakpoint-up(md)

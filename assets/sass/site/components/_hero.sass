@@ -4,10 +4,25 @@
     .row
         flex-direction: column-reverse
         text-align: center
+        margin-top: 0
     &-media
         @include margin-bottom($global-spacing)
         margin-left: 0
-        @include media-breakpoint-up(xl)
-            @include make-col(8)
     figure
         margin-bottom: 0
+    img
+        margin-top: 0
+
+    @include media-breakpoint-down(md)
+        &-media
+            margin-left: calc(#{$gutter-mobile} * -2)
+            margin-right: calc(#{$gutter-mobile} * -2)
+            max-width: unset
+            padding-left: 0
+            padding-right: 0
+            width: calc(100% + #{$gutter-mobile})
+            .credit
+                padding-right: $gutter-mobile
+    @include media-breakpoint-up(xl)
+        &-media
+            @include make-col(8)
