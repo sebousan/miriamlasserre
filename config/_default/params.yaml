@@ -4,12 +4,14 @@ _merge: deep
 gutter: 30
 
 # Images
-hero:
-  desktop: "850x"
-  mobile: "300x"
 image:
   _merge: deep
   desktop: "615x"
+  retina:
+    desktop: true
+hero:
+  desktop: "850x"
+  mobile: "300x"
 publications:
   _merge: deep
   thumbnail:
