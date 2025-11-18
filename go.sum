@@ -8,8 +8,8 @@ github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+y
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hugolify/hugolify-admin v0.0.0-20251017083719-000d2715df1c h1:m+wb5ykeTfOd+cMPnbSa9nrOSwPuJaMQEURt1b3i5Tw=
 github.com/hugolify/hugolify-admin v0.0.0-20251017083719-000d2715df1c/go.mod h1:qB7ndiuXR6XZu3r9UX3LtTHnrMF98U7vJHg6XXb6NvA=
-github.com/hugolify/hugolify-theme v1.26.20 h1:mDasCqhk725l67tBBsVHhHRb4HyIMowRVWud4jwoxBM=
-github.com/hugolify/hugolify-theme v1.26.20/go.mod h1:Rc64eJSSIWGeU6eHfSzUISNfL9UrJmy3Xs3H05Gz9rQ=
+github.com/hugolify/hugolify-theme v1.26.21 h1:A8o/Nxkq4WMYaYQT3sv0SUuigqybdI3IMLBmuYpscRo=
+github.com/hugolify/hugolify-theme v1.26.21/go.mod h1:Rc64eJSSIWGeU6eHfSzUISNfL9UrJmy3Xs3H05Gz9rQ=
 github.com/hugolify/hugolify-theme-publications v1.2.10 h1:a1JsrDgF0EGYzbxLu9OCQdIEaCB3tmI42asSAjwhHcc=
 github.com/hugolify/hugolify-theme-publications v1.2.10/go.mod h1:N9Jz49GpilAfNqIbvSVeCQZXgesHz7sSIOBVx8FH6+A=
 github.com/hugolify/hugolify-theme-services v1.0.6 h1:QKMqmG0K7sZs/pnBCy8YciKMHBj5pBvgrlrLcwYFwI4=
