@@ -4,7 +4,7 @@ weight: 10
 title: Colorimetry Events
 image:
   src: /images/uploads/2dfe33d3-4cc2-4c6b-8398-a12e98de1ebe.jpg
-offer: 850 eur (7 hours)
+offer: 800 eur (7 hours)
 ---
 A day full of colors in boutique, salon or hotel. 
 
