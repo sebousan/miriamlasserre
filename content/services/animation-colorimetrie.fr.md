@@ -6,7 +6,7 @@ weight: 10
 title: "Evenément Colorimétrie "
 description: "\n"
 image:
-  src: /images/uploads/227a5212-9b53-4bd8-ad8e-a0d67085ade0.jpg
+  src: /images/uploads/2dfe33d3-4cc2-4c6b-8398-a12e98de1ebe.jpg
 offer: 850 eur (7 heures)
 ---
 Une journée pleine de couleurs en boutique, salon ou hôtel.
