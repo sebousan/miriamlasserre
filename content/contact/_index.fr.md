@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Contact
 image:
-  src: https://ucarecdn.com/b7ba30c6-047b-4410-ba86-0d2c060e3e46/online.jpg
+  src: https://ucarecdn.com/b7ba30c6-047b-4410-ba86-0d2c060e3e46/
 hero:
   cta:
     blank: false

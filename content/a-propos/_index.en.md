@@ -4,11 +4,11 @@ draft: false
 title: About me
 url: about-me
 image:
-  src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/miriamlasserre.jpg
+  src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/
 hero:
   align: start
   image:
-    src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/miriamlasserre.jpg
+    src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/
     credit: © Mathieu Vilasco
   surtitle: About me
   title: Miriam Lasserre
