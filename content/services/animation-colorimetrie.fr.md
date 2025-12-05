@@ -19,4 +19,4 @@ Des conseils pour des accessoires, maquillage, lunettes et vêtements pour achet
 
 ![](screenshot-2025-12-05-at-10.34.40.png)
 
-Une belle expérience client pour associer palette de couleurs et monture adaptée. Miriam est une experte sérieuse et à l'écoute des besoins.
+"Une belle expérience client pour associer palette de couleurs et monture adaptée. Miriam est une experte sérieuse et à l'écoute des besoins"
