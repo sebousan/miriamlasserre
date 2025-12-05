@@ -48,6 +48,7 @@ admin:
     cloud:
       name: uploadcare
       public_key: b55c98c582cf6f9d4d45
+      tabs: "['file', 'url', 'gdrive']"
   
   # Collections
   collections:
