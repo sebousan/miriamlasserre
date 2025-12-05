@@ -104,22 +104,28 @@ admin:
       - quote
       - testimonials
     cta:
-      - cta
+      fields:
+        - cta
     pages:
-      - items:
-          - title
-          - url
-          - image
+      fields:
+        - items:
+            name: pages
+            fields:
+              - title
+              - url
+              - image
 
   # Fields
   fields:
     cta:
-      - surtitle
-      - text
-      - url
-      - is_blank
+      fields:
+        - surtitle
+        - text
+        - url
+        - is_blank
 
   # Shortcodes
   shortcodes:
     enable:
       - blank_link
+      - blockquote
