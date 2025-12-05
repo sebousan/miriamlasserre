@@ -16,7 +16,7 @@ description: Pour visiter Paris, capitale internationale de la mode, quoi de
   mieux que de s’entourer d’une experte, une Personal Shopper qui vous fera
   découvrir les meilleures adresses ?
 image:
-  src: /images/uploads/img_6902.jpg
+  src: https://ucarecdn.com/6b794808-9f69-4d31-836e-2314323d1cbe/img_6902.jpg
 offer: |-
   150 eur / heure
   Possibilité d'ajouter un chauffer privé pour la journée
@@ -25,7 +25,7 @@ Pour visiter Paris, capitale internationale de la mode, quoi de mieux que de s�
 
 **Options :**
 
-* **Shopping chez des Créateurs Français:** Explorez les boutiques des créateurs Parisiens (certains ont confectionné des pièces pour Emily in Paris et d'autres ont travaillé avec Karl Lagerfeld), rencontrez ces créateurs et discutez avec eux de son travail et inspirations. 
+* **Shopping chez des Créateurs Français:** Explorez les boutiques des créateurs Parisiens (certains ont confectionné des pièces pour Emily in Paris et d'autres ont travaillé avec Karl Lagerfeld), rencontrez ces créateurs et discutez avec eux de son travail et inspirations.
 
 Découvrez comment améliorer vos tenues grâce a des conseils personnalisés de Miriam, qui fera une sélection de pièces adaptées à vos goûts et style. Vous aurez l'opportunité de créer des pièces sur mesure. Découvrez aussi l'art de l'Upcycling (récupération de tissus de maisons de Haute Couture) et le procès de création parisienne. (Saint Germain des Prés ou le Marais).
 

@@ -7,5 +7,5 @@ press:
   title: Elle
   url: https://www.elle.fr/Mode/Les-conseils-mode/Trier-ses-vetements-3293974
 image:
-  src: /images/uploads/elle.jpg
+  src: https://ucarecdn.com/f22a470b-669a-4fc4-9f4b-41616fa62d6e/elle.jpg
 ---

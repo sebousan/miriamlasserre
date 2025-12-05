@@ -13,7 +13,7 @@ hero:
   image:
     darken: true
 image:
-  src: /images/uploads/detox-dressing.jpg
+  src: https://ucarecdn.com/dac0d201-dc25-45ca-8c55-f4669449733d/detoxdressing.jpg
 offer: 150 € / heure
 ---
 Saviez-vous que la plupart des gens ne portent en moyenne que 20% de leur garde-robe ? Si vous êtes dans ce cas, le Dressing Detox est fait pour vous, et fortement recommandé avant de se lancer dans de nouveaux achats. Une consultation chez vous, au cours de laquelle Miriam s’engage à :

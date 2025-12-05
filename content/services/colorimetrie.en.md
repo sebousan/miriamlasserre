@@ -16,7 +16,7 @@ description: Following the color analysis and Miriam’s personalized tips, you
   will know exactly which shades to shift towards when you shop for both your
   make-up and clothes.
 image:
-  src: /images/uploads/color.jpg
+  src: https://ucarecdn.com/dab77a2a-f1db-4329-97a6-74bb1b4eb402/color.jpg
 offer: |-
   210€
   Duo: 380€

@@ -8,19 +8,19 @@ blocks:
       - title: Services
         url: /services/
         image:
-          src: /images/uploads/detox-dressing.jpg
+          src: https://ucarecdn.com/dac0d201-dc25-45ca-8c55-f4669449733d/detoxdressing.jpg
       - title: Contact
         url: /contact/
         image:
-          src: /images/uploads/online.jpg
+          src: https://ucarecdn.com/b7ba30c6-047b-4410-ba86-0d2c060e3e46/online.jpg
       - title: Ebooks
         url: /ebooks/
         image:
-          src: /images/uploads/img_6900.jpg
+          src: https://ucarecdn.com/3ecf6dbd-5125-43cb-bc25-c8530983aedf/img_6900.jpg
       - title: Miriam
         url: /a-propos/
         image:
-          src: /images/uploads/miriam-lasserre.jpg
+          src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/miriamlasserre.jpg
   - type: cta
     cta:
       surtitle: Instagram

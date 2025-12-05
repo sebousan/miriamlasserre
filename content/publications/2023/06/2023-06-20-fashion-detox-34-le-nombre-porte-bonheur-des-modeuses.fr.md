@@ -7,7 +7,7 @@ press:
   url: https://www.doitinparis.com/fr/fashion-detox-34-affaires-24036
   title: Do it in Paris
 image:
-  src: /images/uploads/appli-stylebook.jpg
+  src: https://ucarecdn.com/b0758fb0-6630-41b6-ad19-5e13932dde2f/applistylebook.jpg
 images:
   - half: false
 ---

@@ -16,7 +16,7 @@ description: What better way to explore the worldwide capital of fashion, than
   being accompanied by a local Personal Shopper, an expert who will share the
   best spots of the city ?
 image:
-  src: /images/uploads/img_6902.jpg
+  src: https://ucarecdn.com/6b794808-9f69-4d31-836e-2314323d1cbe/img_6902.jpg
 offer: |-
   150 eur / hour
   Driver is an option for the day
@@ -25,7 +25,7 @@ What better way to explore the worldwide capital of fashion, than being accompan
 
 **Options:**
 
-* **Shopping French Creators:** I will take you to boutiques of high-end Parisian Designers where you will have the opportunity to meet the creators and talk with them about their work and inspiration.  Some of themhave worked with Karl Lagerfeld or Balmain. Others have created pieces for famous TV shows like Emily in Paris. 
+* **Shopping French Creators:** I will take you to boutiques of high-end Parisian Designers where you will have the opportunity to meet the creators and talk with them about their work and inspiration.  Some of themhave worked with Karl Lagerfeld or Balmain. Others have created pieces for famous TV shows like Emily in Paris.
 
 As a Style Coach Miriam will recommend the pieces that enhance you by considering your Colorimetry, Morphology and Lifestyle. She will learn you how to adopt Parisian style always respecting your own codes and style.
 

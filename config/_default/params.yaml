@@ -42,6 +42,12 @@ admin:
   i18n:
     default_locale: fr
     locales: '[fr,en]'
+
+  # Cloud
+  media:
+    cloud:
+      name: uploadcare
+      public_key: b55c98c582cf6f9d4d45
   
   # Collections
   collections:

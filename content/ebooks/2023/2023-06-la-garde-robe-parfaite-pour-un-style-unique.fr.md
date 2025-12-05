@@ -9,5 +9,5 @@ description: Avoir une garde-robe harmonieuse où nous avons uniquement des
   améliorer radicalement notre quotidien.
 file: /pdf/miriamlasserre-la-garde-robe-parfaite.pdf
 image:
-  src: /images/uploads/img_6904.jpg
+  src: https://ucarecdn.com/55e23ec2-50bd-4ba5-a6b1-45df19249328/img_6904.jpg
 ---

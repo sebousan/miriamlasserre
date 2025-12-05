@@ -10,7 +10,7 @@ description: La Colorimétrie peut être réalisée aussi à distance avec une
   déterminer votre palette exacte selon la méthode des 12 saisons ainsi que la
   forme de votre visage.
 image:
-  src: /images/uploads/online-colorimetry.jpg
+  src: https://ucarecdn.com/ab0f0a29-bc24-484c-980e-ec0c40287294/onlinecolorimetry.jpg
 offer: 190 eur
 ---
 > « La plus belle couleur au monde est celle qui vous fait sentir bien. » Coco Chanel
@@ -27,7 +27,7 @@ L’analyse de ces photos permet de déterminer votre palette exacte selon la m�
 
 Miriam vous enverra un email avec un lien a une réunion Zoom à un jour et une heure  déterminée préalablement. Cet email incluira un guide pour réaliser les prises de vue et les envoyer (minimum une semaine avant le rdv Zoom).
 
-Le RDV Zoom avec Miriam dure 1 heure. Elle vous expliquera les bases de la méthode de Colorimétrie ainsi que les types de formes de visage. Ces explications permettent de comprendre l’étude de votre Colorimétrie et Visagisme individuels. 
+Le RDV Zoom avec Miriam dure 1 heure. Elle vous expliquera les bases de la méthode de Colorimétrie ainsi que les types de formes de visage. Ces explications permettent de comprendre l’étude de votre Colorimétrie et Visagisme individuels.
 
 Miriam vous indiquera :
 
@@ -37,6 +37,6 @@ Miriam vous indiquera :
 
 1 semaine après ce rdv vous recevrez votre palette de couleurs digitale et un document (20 pages aprox) qui explique précisément :
 
-* Votre Colorimétrie et comment l’appliquer sur vos tenues quotidiennes. Les couleurs conseillées pour le maquillage (fond de teint, rouge à lèvres, blush, eyeliner, fard à paupières, mascara) et quelques références de produits adaptés à votre saison. 
+* Votre Colorimétrie et comment l’appliquer sur vos tenues quotidiennes. Les couleurs conseillées pour le maquillage (fond de teint, rouge à lèvres, blush, eyeliner, fard à paupières, mascara) et quelques références de produits adaptés à votre saison.
 
 * La forme de votre visage et les corrections à appliquer pour ajouter de l’harmonie à votre image à travers des accessoires, lunettes, boucles d’oreilles, coiffure et couleurs de cheveux.

@@ -4,11 +4,11 @@ draft: false
 title: À propos
 url: a-propos
 image:
-  src: /images/uploads/miriam-lasserre.jpg
+  src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/miriamlasserre.jpg
 hero:
   align: start
   image:
-    src: /images/uploads/miriam-lasserre.jpg
+    src: https://ucarecdn.com/bff2de16-6444-4acf-9a9b-1097b528095c/miriamlasserre.jpg
     credit: © Mathieu Vilasco
   surtitle: À propos
   title: Miriam Lasserre

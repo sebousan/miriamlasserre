@@ -7,7 +7,7 @@ title: Online consultation
 description: Miriam remains available, as needed, following each prestation to
   answer any questions.
 image:
-  src: /images/uploads/online.jpg
+  src: https://ucarecdn.com/b7ba30c6-047b-4410-ba86-0d2c060e3e46/online.jpg
 offer: 135 € / Hour
 ---
 You don’t live in Paris or you simply don’t have the time to shop? You’re looking for a gift for someone you care about, but lack inspiration? Relax and enjoy Miriam’s expertise from your home thanks to the « Online Consultation ».
