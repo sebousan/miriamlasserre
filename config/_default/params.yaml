@@ -123,3 +123,4 @@ admin:
   shortcodes:
     enable:
       - blank_link
+      - blockquote
