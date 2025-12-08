@@ -81,5 +81,5 @@ blocks:
     cta:
       surtitle: Publications
       text: in Press
-      url: /en/press
+      url: /en/press/
 ---

@@ -1,7 +1,12 @@
-{
-  label: '{{ i18n "admin.fields.offer.label" }}',
-  name: 'offer',
-  widget: 'text',
-  required: false,
-  i18n: true
-}
+{{- $fields := slice 
+  "coordinates_lat" 
+  "coordinates_lng"  -}}
+{{- $fields = partial "admin/func/GetFields.html" (dict "field" . "fields" $fields) -}}
+
+{{- $args := dict 
+  "label" (i18n "admin.fields.offer.label")
+  "name" "offer"
+  "fields" $fields
+  -}}
+
+{{ partial "admin/widgets/object.js" $args }}

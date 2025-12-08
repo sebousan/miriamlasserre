@@ -78,5 +78,5 @@ blocks:
     cta:
       surtitle: Publications
       text: dans la Presse
-      url: /presse
+      url: /presse/
 ---
