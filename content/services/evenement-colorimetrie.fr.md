@@ -1,12 +1,14 @@
 ---
 isIndex: false
-draft: false
+draft: true
 date: 2025-03-12T11:07:00.000Z
 weight: 10
 title: Évènement Colorimetrie
 image:
   src: /images/uploads/2dfe33d3-4cc2-4c6b-8398-a12e98de1ebe.jpg
 ---
+{{< blockquote title="Liu Jo Milano" text="Créateur de Mode" image="/images/uploads/logo-liujo.svg" >}}
+
 Une journée pleine de couleurs en boutique, salon ou hôtel.
 
 A travers la comparaison de différents couleurs autour du visage, Miriam va déterminer la saison de Colorimétrie qui mettra en valeur chacun, selon la méthode de 12 saisons.
@@ -15,7 +17,7 @@ Des conseils pour des accessoires, maquillage, lunettes et vêtements pour achet
 
 ## Témoignages
 
-{{< blockquote quote="Avec les conseils de Miriam la Colorimétrie devient un outil précieux pour sublimer votre style et pour completer votre dressing" title="Koshka Paris" text="Créateur de Mode" image="/images/uploads/logo-koshka.svg" >}}
+{{< blockquote quote="Avec les conseils de Miriam la Colorimétrie devient un outil précieux pour sublimer votre style et pour completer votre dressing" title="Koshka Paris" text="Créateur de Mode" image="/images/uploads/logo-koshka.jpg" >}}
 
 {{< blockquote quote="Une belle expérience client pour associer palette de couleurs et monture adaptée. Miriam est une experte sérieuse et à l'écoute des besoins" title="Lafont Paris" text="Opticien" image="/images/uploads/logo-lafont.svg" >}}
 
