@@ -5,3 +5,10 @@ date: 2025-03-12T11:07:00.000Z
 weight: 70
 title: Color Events
 ---
+
+A day full of colors in boutique, salon or hotel. 
+
+By comparing different colors Miriam will determine the
+Colorimetry season that enhances each one by the method of 12 seasons. 
+
+The best colors for accessories, make up, glasses and clothes to buy less and better and have a more defined style.
