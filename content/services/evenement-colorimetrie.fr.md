@@ -15,7 +15,7 @@ Des conseils pour des accessoires, maquillage, lunettes et vêtements pour achet
 
 ## Témoignages
 
-{{< blockquote quote="Avec les conseils de Miriam la Colorimétrie devient un outil précieux pour sublimer votre style et pour completer votre dressing" title="Koshka Paris" text="Créateur de Mode" image="/images/uploads/logo-koshka.jpg" >}}
+{{< blockquote quote="Avec les conseils de Miriam la Colorimétrie devient un outil précieux pour sublimer votre style et pour completer votre dressing" title="Koshka Paris" text="Créateur de Mode" image="/images/uploads/logo-koshka.svg" >}}
 
 {{< blockquote quote="Une belle expérience client pour associer palette de couleurs et monture adaptée. Miriam est une experte sérieuse et à l'écoute des besoins" title="Lafont Paris" text="Opticien" image="/images/uploads/logo-lafont.svg" >}}
 
