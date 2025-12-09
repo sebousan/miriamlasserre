@@ -4,6 +4,8 @@ draft: false
 date: 2025-03-12T11:07:00.000Z
 weight: 10
 title: Color Events
+image:
+  src: /images/uploads/2dfe33d3-4cc2-4c6b-8398-a12e98de1ebe.jpg
 ---
 
 A day full of colors in boutique, salon or hotel. 
