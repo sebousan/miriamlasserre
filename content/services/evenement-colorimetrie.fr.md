@@ -1,8 +1,8 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2025-03-12T11:07:00.000Z
-weight: 70
+weight: 10
 title: Évènement Colorimetrie
 ---
 Une journée pleine de couleurs en boutique, salon ou hôtel.
