@@ -21,4 +21,4 @@ Des conseils pour des accessoires, maquillage, lunettes et vêtements pour achet
 
 {{< blockquote quote="Avec les conseils de Miriam la Colorimétrie devient un outil précieux pour sublimer votre style et pour completer votre dressing" title="Koshka Paris" text="Créateur de Mode" image="/images/uploads/logo-koshka.svg" >}}
 
-{{< blockquote title="Liu Jo Milano" text="Créateur de Mode" image="/images/uploads/logo-liujo.svg" >}}
+{{< blockquote quote="Cet évènement a permis a nos clients de connaitre sa meilleure palette de couleurs pour vêtements, accessoires et maquillage. Cela permet de réaliser des achats plus rassurants et adaptés à leur garde-robe. Miriam est une professionnelle à l'écoute des clients et cet événement a ajouté beaucoup de joie et dynamisme à notre marque." title="Liu Jo Milano" text="Créateur de Mode" image="/images/uploads/logo-liujo.svg" >}}
