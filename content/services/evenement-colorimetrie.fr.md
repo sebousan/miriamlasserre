@@ -15,7 +15,7 @@ Des conseils pour des accessoires, maquillage, lunettes et vêtements pour achet
 
 ## Témoignages
 
-{{< blockquote title="Charles Oudin Paris" text="Maison d'Horlogerie (Place Vendome)" image="/images/uploads/logo-charles-oudin.svg" >}}
+{{< blockquote quote="Un atelier Colorimétrie ludique, guidé avec bienveillance et expertise par Miriam, qui a conseillé chacun/e avec attention pour définir les couleurs idéales: un vrai moment de plaisir et de découverte. Merci, Miriam, pour ton accompagnement précieux" title="Charles Oudin Paris" text="Maison d'Horlogerie (Place Vendome)" image="/images/uploads/logo-charles-oudin.svg" >}}
 
 {{< blockquote quote="Une belle expérience client pour associer palette de couleurs et monture adaptée. Miriam est une experte sérieuse et à l'écoute des besoins" title="Lafont Paris" text="Opticien" image="/images/uploads/logo-lafont.svg" >}}
 
