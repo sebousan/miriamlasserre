@@ -9,9 +9,9 @@ image:
 ---
 Une journée pleine de couleurs en boutique, salon ou hôtel.
 
-A travers la comparaison de différents couleurs autour du visage, Miriam va déterminer la saison de Colorimétrie qui mettra en valeur chacun, selon la méthode de 12 saisons.
+A travers la comparaison de différentes couleurs autour du visage, Miriam va déterminer la saison de Colorimétrie qui mettra en valeur chacun, selon la méthode des 12 saisons.
 
-Des conseils pour des accessoires, maquillage, lunettes et vêtements pour acheter moins et mieux et en conséquence avoir un style plus défini. Une expérience client qui fidélise et dynamise la marque.
+Des conseils pour des accessoires, maquillage, lunettes et vêtements pour acheter moins et mieux et en conséquence avoir un style plus défini. Une expérience qui fidélise et dynamise la marque.
 
 ## Témoignages
 
@@ -21,4 +21,4 @@ Des conseils pour des accessoires, maquillage, lunettes et vêtements pour achet
 
 {{< blockquote quote="Avec les conseils de Miriam la Colorimétrie devient un outil précieux pour sublimer votre style et pour completer votre dressing" title="Koshka Paris" text="Créateur de Mode" image="/images/uploads/logo-koshka.svg" >}}
 
-{{< blockquote quote="Cet évènement a permis a nos clients de connaitre leur palette de couleurs personnalisé pour vêtements, accessoires et maquillage. Il nous a permis de fidéliser nos clients et dynamiser notre marque." title="Liu Jo Milano" text="Créateur de Mode" image="/images/uploads/logo-liujo.svg" >}}
+{{< blockquote quote="Cet évènement a permis a nos clients de connaitre leur palette de couleurs personnalisée pour vêtements, accessoires et maquillage. Il nous a permis de fidéliser nos clients et dynamiser notre marque." title="Liu Jo Milano" text="Créateur de Mode" image="/images/uploads/logo-liujo.svg" >}}
